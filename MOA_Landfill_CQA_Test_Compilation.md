@@ -12,7 +12,7 @@ below, and within each part the reports appear in the order they were provided.
 **Contents:**
 - **Part 1 — Air Channel Pressure Test Summary** (4 reports)
 - **Part 2 — Destructive Test Summary** (3 reports)
-- **Part 3 — Geosynthetic Panel Placement Log (GCL)** (5 reports)
+- **Part 3 — Geosynthetic Panel Placement Log (GCL)** (10 reports)
 
 ---
 
@@ -352,8 +352,13 @@ Samp.Id | Seam No | Date Welded | Welder Initials | Equipment No | Sample Locati
 3. `GCL_Geosynthetic_Panel_Placement_Log_06-00_2026-08-03.pdf` — Report # MF01-000006-00
 4. `GCL_Geosynthetic_Panel_Placement_Log_08-00_2026-08-04.pdf` — Report # MF01-000008-00
 5. `GCL_Geosynthetic_Panel_Placement_Log_10-01_2026-08-08.pdf` — Report # MF01-000010-01
+6. `GCL_Geosynthetic_Panel_Placement_Log_11-00_2026-08-09.pdf` — Report # MF01-000011-00
+7. `GCL_Geosynthetic_Panel_Placement_Log_13-00_2026-08-12.pdf` — Report # MF01-000013-00
+8. `GCL_Geosynthetic_Panel_Placement_Log_15-00_2026-08-17.pdf` — Report # MF01-000015-00
+9. `GCL_Geosynthetic_Panel_Placement_Log_17-00_2026-08-18_markup.pdf` — Report # MF01-000017-00 *(markup copy)*
+10. `GCL_Geosynthetic_Panel_Placement_Log_19-00_2026-08-13.pdf` — Report # MF01-000019-00
 
-**Common header information (all five reports):**
+**Common header information (all ten reports):**
 - **Company:** Gosling Czubak Engineering Sciences, Inc.
 - **Company Address:** 1280 Business Park Drive, Traverse City, MI 49686
 - **Phone:** (231) 946-9191
@@ -569,14 +574,243 @@ T = Textured · S = Smooth · W = Woven · NW = Nonwoven
 
 ---
 
+## Report 11-00 — MF01-000011-00
+
+- **Report #:** MF01-000011-00
+- **Date:** 08/09/2026
+- **Material:** GCL
+- **Weather:** Partly Cloudy
+- **Temp. (°F):** 65-80
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 26 (P-102 → P-127 — continues the first/"P-1…P-101" sequence; see notes)
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-102 | 7241 | 15 | 90 | 1350 | | |
+| P-103 | 7241 | 15 | 90 | 1350 | | |
+| P-104 | 7247 | 15 | 90 | 1350 | | |
+| P-105 | 7247 | 15 | 90 | 1350 | | |
+| P-106 | 7236 | 15 | 90 | 1350 | | |
+| P-107 | 7236 | 15 | 90 | 1350 | | |
+| P-108 | 7237 | 15 | 90 | 1350 | | |
+| P-109 | 7237 | 15 | 90 | 1350 | | |
+| P-110 | 7244 | 15 | 90 | 1350 | | |
+| P-111 | 7244 | 15 | 90 | 1350 | | |
+| P-112 | 7245 | 15 | 90 | 1350 | | |
+| P-113 | 7245 | 15 | 90 | 1350 | | |
+| P-114 | 7242 | 15 | 90 | 1350 | | |
+| P-115 | 7242 | 15 | 90 | 1350 | | |
+| P-116 | 7238 | 15 | 90 | 1350 | | |
+| P-117 | 7238 | 15 | 90 | 1350 | | |
+| P-118 | 7233 | 15 | 300 | 4500 | | |
+| P-119 | 7816 | 15 | 210 | 3150 | | |
+| P-120 | 7816 | 15 | 90 | 1350 | | |
+| P-121 | 7209 | 15 | 300 | 4500 | | |
+| P-122 | 7204 | 15 | 50 | 750 | | |
+| P-123 | 7204 | 15 | 250 | 3750 | | |
+| P-124 | 7196 | 15 | 250 | 3750 | | |
+| P-125 | 7197 | 15 | 300 | 4500 | | |
+| P-126 | 7208 | 15 | 150 | 2250 | | |
+| P-127 | 7208 | 15 | 10 | 150 | | |
+
+---
+
+## Report 13-00 — MF01-000013-00
+
+- **Report #:** MF01-000013-00
+- **Date:** 08/12/2026
+- **Material:** GCL
+- **Weather:** Partly Cloudy
+- **Temp. (°F):** 65-80
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 20 (P-16 → P-35 — continues the second/"Primary layer" sequence; see notes)
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-16 | 7151 | 15 | 100 | 1500 | | |
+| P-17 | 7151 | 15 | 100 | 1500 | | |
+| P-18 | 7144 | 15 | 175 | 2625 | | |
+| P-19 | 7144 | 15 | 10 | 150 | | |
+| P-20 | 7138 | 15 | 60 | 900 | | |
+| P-21 | 7138 | 15 | 140 | 2100 | | |
+| P-22 | 7181 | 15 | 175 | 2625 | | |
+| P-23 | 7181 | 15 | 50 | 750 | | |
+| P-24 | 7139 | 15 | 100 | 1500 | | |
+| P-25 | 7139 | 15 | 100 | 1500 | | |
+| P-26 | 7162 | 15 | 125 | 1875 | | |
+| P-27 | 7162 | 15 | 100 | 1500 | | |
+| P-28 | 7185 | 15 | 100 | 1500 | | |
+| P-29 | 7185 | 15 | 50 | 750 | | |
+| P-30 | 7185 | 15 | 100 | 1500 | | |
+| P-31 | 7205 | 15 | 75 | 1125 | | |
+| P-32 | 7205 | 15 | 100 | 1500 | | |
+| P-33 | 7199 | 15 | 100 | 1500 | | |
+| P-34 | 7199 | 15 | 125 | 1875 | | |
+| P-35 | 7199 | 15 | 50 | 750 | | |
+
+---
+
+## Report 15-00 — MF01-000015-00
+
+- **Report #:** MF01-000015-00
+- **Date:** 08/17/2026
+- **Material:** GCL
+- **Weather:** Sunny
+- **Temp. (°F):** 65-75
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 27 (P-80 → P-106 — second/"Primary layer" sequence; note P-64…P-79 not provided)
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-80 | 7178 | 15 | 100 | 1500 | | |
+| P-81 | 7145 | 15 | 180 | 2700 | | |
+| P-82 | 7172 | 15 | 40 | 600 | | |
+| P-83 | 7172 | 15 | 80 | 1200 | | |
+| P-84 | 7178 | 15 | 10 | 150 | | |
+| P-85 | 7231 | 15 | 80 | 1200 | | |
+| P-86 | 7172 | 15 | 175 | 2625 | | |
+| P-87 | 7171 | 15 | 50 | 750 | | |
+| P-88 | 7171 | 15 | 200 | 3000 | | |
+| P-89 | 7158 | 15 | 50 | 750 | | |
+| P-90 | 7158 | 15 | 60 | 900 | | |
+| P-91 | 7158 | 15 | 5 | 75 | | |
+| P-92 | 7143 | 15 | 40 | 600 | | |
+| P-93 | 7143 | 15 | 100 | 1500 | | |
+| P-94 | 7143 | 15 | 75 | 1125 | | |
+| P-95 | 7173 | 15 | 100 | 1500 | | |
+| P-96 | 7163 | 15 | 100 | 1500 | | |
+| P-97 | 7173 | 15 | 125 | 1875 | | |
+| P-98 | 7173 | 15 | 100 | 1500 | | |
+| P-99 | 7174 | 15 | 200 | 3000 | | |
+| P-100 | 7141 | 15 | 40 | 600 | | |
+| P-101 | 7141 | 15 | 20 | 300 | | |
+| P-102 | 7141 | 15 | 40 | 600 | | |
+| P-103 | 7164 | 15 | 200 | 3000 | | |
+| P-104 | 7164 | 15 | 20 | 300 | | |
+| P-105 | 7202 | 15 | 100 | 1500 | | |
+| P-106 | 7202 | 15 | 100 | 1500 | | |
+
+---
+
+## Report 17-00 — MF01-000017-00  *(markup copy)*
+
+- **Report #:** MF01-000017-00
+- **Date:** 08/18/2026
+- **Material:** GCL
+- **Weather:** Cloudy
+- **Temp. (°F):** 60-75
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 23 (P-108 → P-131 — second/"Primary layer" sequence; P-107 and P-112 absent)
+- **Reviewer markup (red box printed on this copy, above the Date line):** *"Panel # skips from 106 (last on 8/17) to 108, and 111 to 113. Verify."*
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-108 | 7249 | 15 | 80 | 1200 | | |
+| P-109 | 7249 | 15 | 10 | 150 | | |
+| P-110 | 7249 | 15 | 30 | 450 | | |
+| P-111 | 7249 | 15 | 50 | 750 | | |
+| P-113 | 7249 | 15 | 15 | 225 | | |
+| P-114 | 7239 | 15 | 70 | 1050 | | |
+| P-115 | 7239 | 15 | 70 | 1050 | | |
+| P-116 | 7239 | 15 | 10 | 150 | | |
+| P-117 | 7246 | 15 | 60 | 900 | | |
+| P-118 | 7246 | 15 | 70 | 1050 | | |
+| P-119 | 7246 | 15 | 70 | 1050 | | |
+| P-120 | 7248 | 15 | 70 | 1050 | | |
+| P-121 | 7248 | 15 | 70 | 1050 | | |
+| P-122 | 7248 | 15 | 70 | 1050 | | |
+| P-123 | 7230 | 15 | 70 | 1050 | | |
+| P-124 | 7230 | 15 | 70 | 1050 | | |
+| P-125 | 7230 | 15 | 60 | 900 | | |
+| P-126 | 7230 | 15 | 10 | 150 | | |
+| P-127 | 7235 | 15 | 50 | 750 | | |
+| P-128 | 7235 | 15 | 50 | 750 | | |
+| P-129 | 7235 | 15 | 60 | 900 | | |
+| P-130 | 7235 | 15 | 10 | 150 | | |
+| P-131 | 7235 | 15 | 10 | 150 | | |
+
+---
+
+## Report 19-00 — MF01-000019-00
+
+- **Report #:** MF01-000019-00
+- **Date:** 08/13/2026
+- **Material:** GCL
+- **Weather:** Partly Cloudy
+- **Temp. (°F):** 65-80
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 28 (P-36 → P-63 — second/"Primary layer" sequence; fills the gap between reports 13-00 and 15-00)
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-36 | 7190 | 15 | 60 | 900 | | |
+| P-37 | 7190 | 15 | 75 | 1125 | | |
+| P-38 | 7190 | 15 | 40 | 600 | | |
+| P-39 | 7201 | 15 | 75 | 1125 | | |
+| P-40 | 7201 | 15 | 125 | 1875 | | |
+| P-41 | 7201 | 15 | 25 | 375 | | |
+| P-42 | 7140 | 15 | 50 | 750 | | |
+| P-43 | 7140 | 15 | 90 | 1350 | | |
+| P-44 | 7180 | 15 | 75 | 1125 | | |
+| P-45 | 7180 | 15 | 75 | 1125 | | |
+| P-46 | 7179 | 15 | 10 | 150 | | |
+| P-47 | 7179 | 15 | 60 | 900 | | |
+| P-48 | 7179 | 15 | 70 | 1050 | | |
+| P-49 | 7207 | 15 | 110 | 1650 | | |
+| P-50 | 7207 | 15 | 110 | 1650 | | |
+| P-51 | 7200 | 15 | 60 | 900 | | |
+| P-52 | 7200 | 15 | 70 | 1050 | | |
+| P-53 | 7189 | 15 | 100 | 1500 | | |
+| P-54 | 7189 | 15 | 110 | 1650 | | |
+| P-55 | 7200 | 15 | 10 | 150 | | |
+| P-56 | 7152 | 15 | 70 | 1050 | | |
+| P-57 | 7152 | 15 | 70 | 1050 | | |
+| P-58 | 7187 | 15 | 190 | 2850 | | |
+| P-59 | 7187 | 15 | 10 | 150 | | |
+| P-60 | 7189 | 15 | 30 | 450 | | |
+| P-61 | 7150 | 15 | 70 | 1050 | | |
+| P-62 | 7150 | 15 | 125 | 1875 | | |
+| P-63 | 7178 | 15 | 100 | 1500 | | |
+
+---
+
 ## Part 3 — Notes / observations
 
-- **Panel sequence runs P-1 → P-101 across the first four reports** (01-00: P-1–P-27, 03-01: P-28–P-39, 06-00: P-40–P-73, 08-00: P-74–P-101). Report 10-01 then **restarts at P-1** — different roll numbers and every row marked "Primary layer," so it is a separate placement run (likely the primary liner layer), not a continuation of the P-1–P-101 sequence.
-- **Report 8-00 anomaly:** Panel **P-84 is listed twice** (30 FT / 450 FT² and 70 FT / 1050 FT²) and there is **no P-83**. Both P-84 rows share roll 7228. Transcribed exactly as printed — almost certainly one of the two should be P-83; verify against the original.
-- **Width:** 15 FT on nearly every panel. The exceptions are all in Report 1-00: P-24, P-25, P-26, P-27 are **8 FT** wide.
-- **Area check:** Area = Width × Length holds on every row (e.g., 15 × 60 = 900; 8 × 60 = 480). No arithmetic exceptions found.
-- **Sheet Type column is blank on every panel** in all five reports, even though the Textured/Smooth/Woven/Nonwoven legend is printed.
-- **Comments:** blank everywhere except Report 10-01, where all 15 rows read "Primary layer."
-- **Report 6-00** is a 2-page PDF whose first page is header-only; the entire panel table is on page 2.
-- **Chronology:** Reports are compiled in the order provided (01, 03, 06, 08, 10), which here also happens to match date order (07/31 → 08/01 → 08/03 → 08/04 → 08/08). The report-number gaps (02, 04, 05, 07, 09 missing) suggest other reports in this series exist but were not provided.
-- **Total panels placed (as listed):** 27 + 12 + 34 + 28 + 15 = **116 rows** across the five reports.
+### Two parallel panel-numbering sequences
+The GCL logs contain **two independent P-numbering runs**. They are distinguished by date and roll numbers, and their panel numbers overlap, so the same label (e.g. "P-20") appears in both runs as two different physical panels.
+
+- **Sequence A** (reports 01-00, 03-01, 06-00, 08-00, 11-00): panels **P-1 → P-127**, dated 07/31 → 08/09.
+  - 01-00 (07/31): P-1–P-27 · 03-01 (08/01): P-28–P-39 · 06-00 (08/03): P-40–P-73 · 08-00 (08/04): P-74–P-101 · 11-00 (08/09): P-102–P-127
+- **Sequence B** — the **"Primary layer"** run (reports 10-01, 13-00, 19-00, 15-00, 17-00): panels **P-1 → P-131**, dated 08/08 → 08/18.
+  - 10-01 (08/08): P-1–P-15 (rows marked "Primary layer") · 13-00 (08/12): P-16–P-35 · 19-00 (08/13): P-36–P-63 · 15-00 (08/17): P-80–P-106 · 17-00 (08/18): P-108–P-131
+  - Only report 10-01 actually carries the "Primary layer" comment; 13-00/15-00/17-00/19-00 leave Comments blank, but their dates and numbering place them in this run.
+
+### Confirmed / flagged numbering anomalies
+- **Report 8-00 (Seq A):** panel **P-84 listed twice** (450 FT² and 1050 FT²) and **no P-83**. Both rows roll 7228. Likely one should be P-83 — verify.
+- **Report 17-00 (Seq B) — reviewer markup on the PDF:** red box reads *"Panel # skips from 106 (last on 8/17) to 108, and 111 to 113. Verify."* Confirmed in the data: this report starts at **P-108 (no P-107)** and jumps **P-111 → P-113 (no P-112)**.
+- **Sequence B gap:** panels **P-64 → P-79 were not provided** (would fall between report 19-00 and report 15-00 — probably in a report numbered 14 or similar, not in this batch).
+- **Panel P-102–P-106 appear in BOTH sequences** — once in Seq A (report 11-00, rolls 7241/7247/7236) and once in Seq B (report 15-00, rolls 7141/7164/7202). Different rolls confirm these are different physical panels sharing a label across the two runs.
+
+### Roll-number outlier
+- **Report 11-00, panels P-119 and P-120: roll number "7816"** — far outside the 71xx–72xx range used everywhere else. Appears twice, so it is consistent in the source, but it looks like a possible typo (e.g. for 7216). Transcribed as printed — verify.
+
+### Consistent across all ten reports
+- **Width:** 15 FT on every panel except Report 1-00 P-24–P-27 (8 FT).
+- **Area check:** Area = Width × Length holds on every row across all ten reports. No arithmetic exceptions.
+- **Sheet Type column:** blank on every panel, despite the printed T/S/W/NW legend.
+- **Comments:** blank everywhere except Report 10-01 ("Primary layer" on all 15 rows).
+- **Report 6-00** is a 2-page PDF with a header-only first page; its table is entirely on page 2.
+
+### Chronology & report-number gaps
+- Compiled in the order provided. First batch: 01, 03, 06, 08, 10. Second batch: 11, 13, 15, 17, 19. Note the second batch is **not** in date order — report 19-00 is dated 08/13, earlier than reports 15-00 (08/17) and 17-00 (08/18).
+- Missing report numbers in the MF01 series so far: 02, 04, 05, 07, 09, 12, 14, 16, 18 — these logs exist but were not provided.
+
+### Row totals (as listed)
+- **Sequence A:** 27 + 12 + 34 + 28 + 26 = **127 rows**
+- **Sequence B:** 15 + 20 + 28 + 27 + 23 = **113 rows**
+- **Grand total (all 10 GCL reports):** **240 panel rows**

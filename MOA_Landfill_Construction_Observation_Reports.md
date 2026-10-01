@@ -51,6 +51,9 @@
 | COR001-000023-00 | 08/21/2026 | Cloudy / 60–70°F | 07:30–13:01 | M&M: sand cover on primary liner (E half), **half day — primary liner incomplete**; CAAW off site (**no GCL**) |
 | COR001-000026-00 | 09/08/2026 | Cloudy / 60–70°F | 08:30–14:30 | M&M: stage sand for primary liner cover (base); **CAAW: FINISHED primary geocomposite**; one leachate-trench seam heat-tacked (too dirty to sew) |
 | COR001-000027-00 | 09/09/2026 | Cloudy / 60–70°F | 09:00–15:00 | M&M: sand cover around leachate trench, middle section (ref plans p.5) |
+| COR001-000028-00 | 09/10/2026 | Partly Cloudy / 60–70°F | 10:00–14:00 | M&M: **completed sand cover over primary liner system**; CAAW: began NW geotextile (W side) |
+| COR001-000029-00 | 09/11/2026 | Cloudy / 60–70°F | 10:00–14:00 | M&M: began N-side **berm** (W half formed/graded); **CAAW: ALL base + slope geotextile complete** |
+| COR001-000030-00 | 09/12/2026 | Partly Cloudy / 55–70°F | 09:00–15:00 | M&M: **finished N berm** backfill/grade; CAAW: installed 60-mil HDPE **rain flap** (N berm), extrusion-welded to primary liner |
 
 > **Note on numbering:** Report numbers are not in strict date order — e.g. COR#4 (06/24) precedes COR#3 (06/29), and **COR#18 is dated 08/01, earlier than COR#16 (08/03) and COR#17 (08/05)**. The "-00" / "-01" suffix is the revision number (01 = first revision). **Reports #13 and #21 (COR001-000013, -000021) have not been provided** — gaps between 07/22 (#12) & 07/28 (#14), and between 08/08 (#20) & 08/18 (#22). COR#23–25 are in reverse date order (23 = 08/21, 24 = 08/20, 25 = 08/19). There is also a **~2.5-week activity gap** between COR#23 (08/21) and COR#26 (09/08) with no reports — report numbers are continuous there, so this is a break in on-site activity, not a missing report. The quick-reference table above is sorted by activity date; the detailed entries below are in report-number order.
 
@@ -532,6 +535,73 @@
 
 ---
 
+### COR001-000028-00 — 09/10/2026
+
+- **Contractor:** M&M, CAAW
+- **Time on site:** 10:00 – 14:00
+- **Weather / Temp:** Partly Cloudy / 60–70°F
+- **Manpower:** Foreman: 1 · Operators: 3 · Laborers: 8
+- **Equipment:** Loaders: 1 · Dozers: 2 · Skid Steer: 2
+- **Activities:**
+  - **M&M completed the sand cover** (CQA-approved material) on top of the **primary liner system** (ref: plans p.5).
+  - **CAAW** began installing **NW (nonwoven) geotextile on the W side** of the proposed cell, per the CQA Plan.
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Overview of area worked; (2) Geotextile being installed
+
+---
+
+### COR001-000029-00 — 09/11/2026
+
+- **Contractor:** M&M, CAAW
+- **Time on site:** 10:00 – 14:00
+- **Weather / Temp:** Cloudy / 60–70°F
+- **Manpower:** Foreman: 2 · Operators: 3 · Laborers: 8
+- **Equipment:** Loaders: 1 · Dozers: 2 · Skid Steer: 2
+- **Activities:**
+  - **M&M** began work on the **berm on the N side** of the proposed cell. CQA-approved sand hauled and dumped on the N edge; **W half of the berm formed and graded.** E half to be formed/graded 9/12 (ref: plans p.6).
+  - **CAAW** installed NW geotextile on the **base** of the proposed cell. **All geotextile for the base and slopes is now complete.**
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Overview of berm work
+
+---
+
+### COR001-000030-00 — 09/12/2026
+
+- **Contractor:** M&M, CAAW
+- **Time on site:** 09:00 – 15:00
+- **Weather / Temp:** Partly Cloudy / 55–70°F
+- **Manpower:** Foreman: 2 · Operators: 1 · Laborers: 8
+- **Equipment:** Loaders: 1 · Dozers: 2 · Skid Steer: 2
+- **Activities:**
+  - **M&M** finished **backfilling and grading of the N-side berm** (ref: plans p.6).
+  - **CAAW** installed a **60-mil HDPE rain flap on the N half of the berm** and **extrusion-welded it to the primary liner** (ref: plans p.6). *(Report says "60mm" — almost certainly 60-mil, consistent with the 60-mil HDPE used throughout.)*
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Overview of area worked; (2) 60-mil rain flap install; (3) Berm on N side
+
+---
+
+## Inventory Checklists (GCL Rolls)
+
+Separate document type (Report # prefix **ICL**), not daily observation reports. These are CQA material-inventory snapshots of GCL (geosynthetic clay liner) rolls received/stored on site. **CQA Personnel: Kyle Bridges.** The checklists carry no activity date. Each roll is tracked by roll number with a "Used?" status.
+
+> **Note:** Checklists **#1 and #4** are provided here; **#2 and #3 (ICL001-000002, -000003) have not been provided.** All rolls on both checklists are marked **"Used? No"** — i.e., these are as-received inventory snapshots, not consumption records.
+
+### ICL001-000001-01 — GCL Inventory (26 rolls, all unused)
+
+Roll numbers (all prefix 0242-457): 457236, 457244, 457241, 457237, 457245, 457242, 457243, 457239, 457238, 457246, 457240, 457248, 457249, 457247, 457225, 457223, 457233, 457230, 457226, 457235, 457229, 457222, 457224, 457234, 457228, 457231. **All "Used? No."**
+
+### ICL001-000004-00 — GCL Inventory (38 rolls, all unused)
+
+Roll numbers (all prefix 0242-457): 457173, 457178, 457172, 457202, 457189, 457185, 457199, 457200, 457190, 457143, 457163, 457138, 457157, 457144, 457158, 457140, 457155, 457146, 457162, 457171, 457151, 457148, 457154, 457147, 457217, 457213, 457210, 457214, 457195, 457212, 457219, 457218, 457220, 457221, 457194, 457215, 457211, 457216. **All "Used? No."**
+
+---
+
 ## Running Notes / Open Items to Track
 
 - **Contaminated material (SW/SE quadrant):** Discovered 06/29, actively removed 06/30. EGLE (John Ozoga) directed removal of wet contaminated material + backfill with clean existing material. ~1,500 cu yds removed as of 06/30. *No further mention in reports 6–10 — appears resolved; watch for lab results.*
@@ -539,7 +609,10 @@
 - **18" HDPE pressure test:** ✅ **RESOLVED.** Contractor requested switching from in-place hydrostatic to above-ground air test (06/24). On **08/03** a 1-hr air pressure test on 80' of 18" HDPE at 10 psi held with no pressure drop — **test passed.**
 - **Liner install (CAAW):** ✅ **Primary geocomposite FINISHED 09/08.** Progression: base 08/03 → entire E slope GCL+HDPE 08/01 → geonet composite E slope+base 08/07 → primary liner E slope 08/08 → primary GCL+geomembrane SE slope 08/18 → primary geocomposite E half 08/19 → finished 09/08. *CAAW's main liner scope now largely complete; M&M placing sand cover over it (ongoing).*
 - **Destructive seam testing (destructs):** ⚠ **One failure, remediated.** Samples sent to lab **Geotechnics** (ASTM D6392, 60-mil HDPE, double-fusion seams; peel + shear). DS-1–DS-9 cut 8/4; destructs 11–17 sent 8/18. **DS-12 (sample DP-12, primary seam P37/38) FAILED the peel test** — inside-track replicate AD-BRK at 30% incursion (>25% limit); shear passed. **Seam P37/38 was capped and welded to the primary liner 08/20** per CQA Plan. *Watch for any further destruct results / failures on later-installed seams.*
-- **Sand cover over liner (M&M):** Ongoing — E half (08/20, 08/21, 08/23 area), base staging 09/08, middle/leachate-trench area 09/09 (ref plans p.5). *Track to full coverage.*
+- **Sand cover over liner (M&M):** ✅ **COMPLETED 09/10** over the primary liner system (ref plans p.5). Progression: E half (08/20–08/21), base staging 09/08, middle/leachate-trench 09/09, completed 09/10.
+- **Geotextile (NW, CAAW):** ✅ **ALL base + slope geotextile COMPLETE 09/11.** (W side started 09/10, base finished 09/11.)
+- **N-side berm (M&M):** ✅ Built 09/11 (W half) → **finished backfill/grade 09/12** (ref plans p.6).
+- **Rain flap (berm):** 60-mil HDPE rain flap installed on **N half of the berm 09/12**, extrusion-welded to the primary liner (ref plans p.6). *(This is a designed feature per plans — distinct from the earlier COR#8 confusion where an existing rain flap was mistaken for the primary liner.)*
 - **Leachate collection pipe:** ✅ **8" HDPE installed in center trench 08/19.** (18" HDPE previously air-tested 08/03.) Sand cover placed around leachate trench 09/09. One geocomposite seam over the leachate trench was heat-tacked (too dirty to sew) 09/08.
 - **Material shortages:** CAAW off site 08/21 due to **lack of GCL**; M&M worked only a half day 08/21 (primary liner incomplete). *Watch for further delivery-driven delays.*
 - **Anchor trench:** ✅ Excavation underway. SE/S slopes 08/03; **E slope 08/01** (met plan detail). *Ongoing around remaining perimeter.*

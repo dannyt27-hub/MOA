@@ -16,7 +16,7 @@ below, and within each part the reports appear in the order they were provided.
 - **Part 4 — Geosynthetic Panel Placement Log (Geomembrane)** (13 reports — incl. 1 misfiled GCL report)
 - **Part 5 — Laboratory Geosynthetic Testing (Geotechnics)** (1 report)
 - **Part 6 — Mechanical Analysis Report (sieve / gradation)** (2 reports)
-- **Part 7 — Panel Seaming Summary** (3 reports)
+- **Part 7 — Panel Seaming Summary** (8 reports)
 
 ---
 
@@ -1479,8 +1479,13 @@ Field log of geomembrane seam welds (fusion welder runs) — new document type, 
 1. `Panel_Seaming_Summary_01-00_2026-07-31_markup.pdf` — Report # MF0085-000001-00 *(markup copy)*
 2. `Panel_Seaming_Summary_02-00_2026-08-01_markup.pdf` — Report # MF0085-000002-00 *(markup copy)*
 3. `Panel_Seaming_Summary_03-00_2026-08-03.pdf` — Report # MF0085-000003-00
+4. `Panel_Seaming_Summary_04-00_2026-08-04_markup.pdf` — Report # MF0085-000004-00 *(markup copy)*
+5. `Panel_Seaming_Summary_05-00_2026-08-08_markup.pdf` — Report # MF0085-000005-00 *(markup copy)*
+6. `Panel_Seaming_Summary_06-00_2026-08-09_markup.pdf` — Report # MF0085-000006-00 *(markup copy)*
+7. `Panel_Seaming_Summary_07-00_2026-08-12.pdf` — Report # MF0085-000007-00
+8. `Panel_Seaming_Summary_08-00_2026-08-17.pdf` — Report # MF0085-000008-00
 
-**Common header information (all three reports):**
+**Common header information (all eight reports):**
 - **Company:** Gosling Czubak Engineering Sciences, Inc. — 1280 Business Park Drive, Traverse City, MI 49686 — (231) 946-9191
 - **Client:** Gosling Czubak Engineering Sciences
 - **Project:** 260006 — M-O-A Landfill, 6751 Landfill Rd, Atlanta, MI
@@ -1594,15 +1599,197 @@ Field log of geomembrane seam welds (fusion welder runs) — new document type, 
 
 ---
 
+## Report 4-00 — MF0085-000004-00  *(markup copy)*
+
+- **Report #:** MF0085-000004-00
+- **Date:** 08/04/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 16
+- **Reviewer markup:** row **P36/35** is highlighted yellow — its Start Time and Stop Time both read **00:05** (and Start Temp 860), flagged as suspect (a 20-ft seam cannot start and stop at the same 00:05). No text comment, just the highlight.
+- **New Tech ID this report: "OA"** (runs Equip. 6416), alongside RM (6050).
+- **Total Seam Length (ft):** 719 *(verified)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P33/34 | 10:37 | 860 | 10:46 | 860 | 71 | RM | 6050 | 54 |
+| P33/36 | 12:00 | 860 | 12:13 | 860 | 71 | RM | 6050 | 31 |
+| P34/36 | 12:05 | 860 | 12:11 | 860 | 71 | RM | 6050 | 36 |
+| P34/35 | 10:52 | 860 | 10:57 | 860 | 71 | RM | 6050 | 20 |
+| P36/35 | **00:05** ⚠️ | 860 | **00:05** ⚠️ | 860 | 71 | RM | 6050 | 20 |
+| P36/37 | 11:02 | 860 | 11:12 | 860 | 71 | RM | 6050 | 74 |
+| P37/38 | 11:15 | 860 | 11:25 | 860 | 71 | RM | 6050 | 74 |
+| P38/39 | 11:26 | 860 | 11:36 | 860 | 71 | RM | 6050 | 70 |
+| P39/40 | 11:37 | 860 | 11:47 | 860 | 71 | RM | 6050 | 70 |
+| P40/41 | 11:50 | 860 | 11:58 | 860 | 71 | RM | 6050 | 70 |
+| P41/42 | 11:40 | 860 | 11:48 | 860 | 71 | RM | 6050 | 70 |
+| P43/47 | 11:48 | 860 | 12:00 | 860 | 71 | OA | 6416 | 60 |
+| P43/44 | 10:21 | 860 | 10:24 | 860 | 71 | OA | 6416 | 10 |
+| P44/45 | 11:56 | 860 | 11:59 | 860 | 71 | OA | 6416 | 10 |
+| P43/45 | 12:02 | 860 | 12:05 | 860 | 71 | OA | 6416 | 20 |
+| P13/45 | 14:26 | 860 | 14:29 | 860 | 71 | OA | 6416 | 30 |
+
+---
+
+## Report 5-00 — MF0085-000005-00  *(markup copy)*
+
+- **Report #:** MF0085-000005-00
+- **Date:** 08/08/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 9
+- **Reviewer markup (red box):** *"Times are overlapped"* — rows **P2/3, P3/4, P5/6** highlighted yellow. P2/3 (11:35–11:44) and P3/4 (11:35–11:53) are the same welder (RM/6050) running two seams at the same start time, which is physically impossible — the overlap flag is valid.
+- **Comments column: every row reads "Primary"** (first time the seaming logs use the Comments field).
+- **Total Seam Length (ft):** 540 *(verified: 9 × 60)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length | Comments |
+|---|---|---|---|---|---|---|---|---|---|
+| P1/2 | 11:24 | 860 | 11:33 | 860 | 73 | RM | 6050 | 60 | Primary |
+| P2/3 | **11:35** ⚠️ | 860 | 11:44 | 860 | 73 | RM | 6050 | 60 | Primary |
+| P3/4 | **11:35** ⚠️ | 860 | 11:53 | 860 | 73 | RM | 6050 | 60 | Primary |
+| P5/6 | **11:51** ⚠️ | 860 | 12:06 | 860 | 73 | RM | 6050 | 60 | Primary |
+| P7/8 | 12:09 | 860 | 12:17 | 860 | 73 | RM | 6050 | 60 | Primary |
+| P9/10 | 12:20 | 860 | 12:31 | 860 | 73 | RM | 6050 | 60 | Primary |
+| P4/5 | 11:48 | 860 | 11:58 | 860 | 73 | HL | 6416 | 60 | Primary |
+| P6/7 | 12:00 | 860 | 12:10 | 860 | 73 | HL | 6416 | 60 | Primary |
+| P8/9 | 12:11 | 860 | 12:20 | 860 | 73 | HL | 6416 | 60 | Primary |
+
+---
+
+## Report 6-00 — MF0085-000006-00  *(markup copy — heavily annotated)*
+
+- **Report #:** MF0085-000006-00
+- **Date:** 08/09/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 2
+- **Row count:** 23
+- **Reviewer markups (three distinct ones):**
+  1. **Red "X" in the margin on 5 rows** — P56/57, P56/58, P57/25, P56/25, P58/51 — with the note: *"Red X: I didn't see these seam IDs in the Air Channel Tests 8/10/26."* (A cross-check flag: these seams were seamed here but the reviewer couldn't find matching air-channel pressure tests. Note the Air Channel report dated 08/10 is Part 1 Report 2 / ACP001-000002-01.)
+  2. **Red box: *"Time overlaps"*** — many HL rows highlighted yellow (start/stop times that overlap between consecutive seams on the same machine).
+  3. **Ambient Temp = 250 on row P56/25** (highlighted) — impossible ambient temperature, almost certainly a typo (should be ~75). Note this row's Seam Length is also 250; the length 250 is used in the verified total, the ambient 250 is the error.
+- **Total Seam Length (ft):** 1852 *(verified)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length | Markup |
+|---|---|---|---|---|---|---|---|---|---|
+| P56/57 | 12:47 | 860 | 12:52 | 860 | 75 | RM | 6050 | 24 | ❌ seam ID |
+| P56/58 | 12:54 | 860 | 13:37 | 860 | 75 | RM | 6050 | 320 | ❌ seam ID |
+| P58/59 | 14:19 | 860 | 14:52 | 860 | 75 | RM | 6050 | 170 | |
+| P58/60 | 13:50 | 860 | 14:19 | 860 | 75 | RM | 6050 | 170 | |
+| P57/25 | 14:02 | 860 | 14:05 | 860 | 75 | HL | 6416 | 10 | ❌ seam ID + time overlap |
+| P56/25 | 14:05 | 860 | 14:55 | 860 | **250** ⚠️ | HL | 6416 | 250 | ❌ seam ID + bad ambient temp |
+| P58/52 | 15:15 | 860 | 15:18 | 860 | 75 | HL | 6416 | 12 | |
+| P58/51 | 15:10 | 860 | 15:14 | 860 | 75 | HL | 6416 | 12 | ❌ seam ID |
+| P49/51 | 10:06 | 860 | 10:10 | 860 | 70 | HL | 6416 | 20 | time overlap |
+| P49/50 | 10:10 | 860 | 10:18 | 860 | 70 | HL | 6416 | 70 | time overlap |
+| P51/52 | 10:21 | 860 | 10:25 | 860 | 70 | HL | 6416 | 20 | time overlap |
+| P50/51 | 09:44 | 860 | 09:49 | 860 | 70 | HL | 6416 | 24 | |
+| P53/33 | 10:47 | 860 | 10:57 | 860 | 70 | HL | 6416 | 90 | time overlap |
+| P53/55 | 11:08 | 860 | 11:40 | 860 | 70 | HL | 6416 | 150 | time overlap |
+| P55/54 | 11:59 | 860 | 12:44 | 860 | 70 | HL | 6416 | 150 | time overlap |
+| P23/53 | 15:35 | 860 | 15:40 | 860 | 70 | HL | 6416 | 20 | time overlap |
+| P21/53 | 15:41 | 860 | 15:49 | 860 | 75 | HL | 6416 | 60 | |
+| P26/46 | 14:56 | 860 | 15:00 | 860 | 75 | HL | 6416 | 20 | |
+| P28/47 | 15:00 | 860 | 15:03 | 860 | 75 | HL | 6416 | 20 | |
+| P30/48 | 15:03 | 860 | 15:07 | 860 | 75 | HL | 6416 | 20 | time overlap |
+| P32/49 | 15:07 | 860 | 15:11 | 860 | 75 | HL | 6416 | 20 | time overlap |
+| P32/59 | 15:17 | 860 | 15:34 | 860 | 75 | HL | 6416 | 100 | time overlap |
+| P32/60 | 14:46 | 860 | 15:17 | 860 | 75 | HL | 6416 | 100 | time overlap |
+
+---
+
+## Report 7-00 — MF0085-000007-00
+
+- **Report #:** MF0085-000007-00
+- **Date:** 08/12/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 4
+- **Total Seam Length (ft):** 724 *(verified)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P11/12 | 14:38 | 860 | 15:16 | 860 | 75 | HL | 6416 | 350 |
+| P13/14 | 15:51 | 860 | 15:55 | 860 | 75 | HL | 6416 | 24 |
+| P12/14 | 15:58 | 860 | 16:24 | 860 | 75 | HL | 6416 | 250 |
+| P12/13 | 16:24 | 860 | 16:36 | 860 | 75 | HL | 6416 | 100 |
+
+---
+
+## Report 8-00 — MF0085-000008-00
+
+- **Report #:** MF0085-000008-00
+- **Date:** 08/17/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 2
+- **Row count:** 28
+- **Total Seam Length (ft):** 1484 *(verified)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P35/36 | 10:44 | 860 | 10:49 | 860 | 70 | RM | 6050 | 24 |
+| P35/33 | 10:53 | 860 | 10:56 | 860 | 70 | RM | 6050 | 24 |
+| P33/36 | 10:56 | 860 | 11:14 | 860 | 70 | RM | 6050 | 200 |
+| P34/36 | 11:14 | 860 | 11:20 | 860 | 70 | RM | 6050 | 80 |
+| P33/34 | 10:35 | 860 | 10:40 | 860 | 70 | HL | 6416 | 24 |
+| P37/38 | 11:10 | 860 | 11:15 | 860 | 70 | HL | 6416 | 24 |
+| P35/37 | 11:25 | 860 | 11:29 | 860 | 70 | HL | 6416 | 20 |
+| P36/37 | 11:29 | 860 | 11:32 | 860 | 70 | HL | 6416 | 20 |
+| P36/38 | 11:32 | 860 | 12:00 | 860 | 70 | HL | 6416 | 240 |
+| P39/40 | 11:47 | 860 | 11:51 | 860 | 70 | RM | 6050 | 24 |
+| P39/42 | 12:20 | 860 | 12:25 | 860 | 70 | HL | 6416 | 50 |
+| P40/42 | 12:25 | 860 | 12:52 | 860 | 70 | HL | 6416 | 200 |
+| P41/42 | 12:52 | 860 | 13:00 | 860 | 70 | HL | 6416 | 40 |
+| P41/40 | 11:35 | 860 | 11:39 | 860 | 70 | RM | 6050 | 24 |
+| P41/38 | 12:21 | 860 | 12:30 | 860 | 70 | RM | 6050 | 40 |
+| P40/38 | 12:02 | 860 | 12:21 | 860 | 70 | RM | 6050 | 180 |
+| P37/40 | 11:56 | 860 | 12:02 | 860 | 72 | RM | 6050 | 30 |
+| P34/1 | 14:00 | 860 | 14:04 | 860 | 72 | RM | 6050 | 24 |
+| P34/2 | 13:56 | 860 | 14:00 | 860 | 72 | RM | 6050 | 24 |
+| P34/3 | 13:51 | 860 | 13:56 | 860 | 72 | RM | 6050 | 24 |
+| P34/4 | 13:47 | 860 | 13:51 | 860 | 72 | RM | 6050 | 24 |
+| P34/5 | 13:45 | 860 | 13:47 | 860 | 72 | RM | 6050 | 12 |
+| P33/5 | 13:43 | 860 | 13:45 | 860 | 72 | RM | 6050 | 12 |
+| P33/6 | 13:39 | 860 | 13:43 | 860 | 72 | RM | 6050 | 24 |
+| P33/7 | 13:35 | 860 | 13:39 | 860 | 72 | RM | 6050 | 24 |
+| P33/8 | 13:31 | 860 | 13:35 | 860 | 72 | RM | 6050 | 24 |
+| P33/9 | 13:27 | 860 | 13:31 | 860 | 72 | RM | 6050 | 24 |
+| P33/10 | 13:25 | 860 | 13:27 | 860 | 72 | RM | 6050 | 24 |
+
+---
+
 ## Part 7 — Notes / observations
 
-- **Reviewer markups (2 of 3 reports are marked up):**
-  - Report 1-00: a formatting request to "Pete" — *"make the table start on the first page and then wrap onto the second."* No data impact.
-  - Report 2-00: *"Confirm stop time"* on the two yellow-highlighted stop times of **21:47** (P17/P18 and P18/P19). Both are almost certainly **09:47** mistyped as 21:47 — the starts are 09:47 and 09:44. This is a genuine open data question flagged on the source.
-- **Start Time > Stop Time on several rows** (times apparently out of order), e.g. Report 1-00: P1/P3 (start 09:55, stop 09:10), P8/P9 (11:17→11:11), P1/P2 (09:57→09:10); and P14/P12 start "01:13" (likely 13:13 / 1:13 PM). These look like transcription/AM-PM errors in the original log, not my reading. Verify.
-- **Totals verified:** each report's listed Total Seam Length equals the sum of its row lengths — 828, 948, 2896. (This also confirms no rows were missed.)
-- **Two welders / machines:** Tech RM runs Equip. 6050; Tech HL runs Equip. 6416. Consistent across all three reports.
-- **Report 3-00 header omits the Machine Number** field that reports 1-00 and 2-00 show (6050/6416). The per-row Equip. ID column still identifies the machines.
-- **Report numbering:** this is the **MF0085** series (seaming), separate from MF01 (panel placement) and MF0084 (destructive). Reports 01, 02, 03 provided.
-- **Seam Number format differs from the air-channel report (Part 1):** here seams are written like "P1/P3", "P14/P12" (with the "P" repeated); Part 1 wrote them "P1/3". Same seam-naming scheme, different punctuation.
-- **Grand total seam length across the three reports:** 828 + 948 + 2896 = **4672 ft** (49 seam rows).
+### Reviewer markups (5 of 8 reports are marked up)
+- **Report 1-00:** formatting request to "Pete" — *"make the table start on the first page and then wrap onto the second."* No data impact.
+- **Report 2-00:** *"Confirm stop time"* on two yellow stop times of **21:47** (P17/P18, P18/P19). Almost certainly **09:47** mistyped (starts are 09:47/09:44).
+- **Report 4-00:** row **P36/35** highlighted — start and stop both **00:05**. A seam can't start and stop at the same minute; suspect time entry.
+- **Report 5-00:** red box *"Times are overlapped"* — P2/3 and P3/4 both start **11:35** on the same welder (RM/6050). Physically impossible; valid flag.
+- **Report 6-00 (heaviest):** three separate markups —
+  1. **Red "X" on 5 seams** (P56/57, P56/58, P57/25, P56/25, P58/51) with note *"I didn't see these seam IDs in the Air Channel Tests 8/10/26"* — a QA cross-check: these were seamed but have no matching air-channel pressure test. **Worth chasing: an unseam-tested seam is a real QA gap, not a typo.**
+  2. Red box *"Time overlaps"* on many HL rows.
+  3. **Ambient Temp = 250 on P56/25** — impossible; almost certainly should be ~75. (That row's Seam Length is also 250, which is legitimate and used in the verified total; only the ambient is wrong.)
+
+### Data-quality patterns (across all 8 reports)
+- **Start Time > Stop Time / out-of-order times** recur throughout (e.g. Report 1-00 P1/P3 09:55→09:10, P8/P9 11:17→11:11; Report 1-00 P14/P12 start "01:13"). These look like AM/PM or transcription errors in the original logs. The markups above only flag a subset; the pattern is broader. Verify before relying on seam timing.
+- **Start Temp and Stop Temp are 860 on every row of every report** — a constant, suggesting a defaulted/template value rather than individually recorded wedge temperatures. Worth confirming the welder actually logged 860 each time.
+
+### Verified facts
+- **All eight totals reconcile** (row lengths sum to the printed Total Seam Length): 828, 948, 2896, 719, 540, 1852, 724, 1484. Confirms no rows missed.
+- **Three welders/machines:** Tech **RM → Equip. 6050**; Tech **HL → Equip. 6416**; Tech **OA → Equip. 6416** (OA appears only in report 4-00). Machine/tech pairing is consistent.
+- **Machine Number header field:** shown (6050/6416) only on reports 1-00 and 2-00; omitted on 3-00 through 8-00. Per-row Equip. ID still identifies the machine.
+- **Comments column** is blank on every report except **5-00**, where all rows read "Primary" (ties to the "Primary layer" placement run).
+
+### Report series & totals
+- **MF0085** series (seaming), separate from MF01 (panel placement) and MF0084 (destructive). Reports 01–08 now provided (no gaps).
+- Seam-number punctuation here ("P1/P3", "P14/P12") differs from the air-channel report's "P1/3" — same scheme, different formatting.
+- **Grand total seam length across all 8 reports:** 828 + 948 + 2896 + 719 + 540 + 1852 + 724 + 1484 = **9,991 ft** (158 seam rows).

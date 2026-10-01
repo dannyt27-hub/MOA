@@ -29,6 +29,11 @@
 | COR001-000004-00 | 06/24/2026 | Partly Cloudy / 60–70°F | 09:00–15:00 | Began excavating ~2" material, replacing with clean sand; leachate sand sampling; temp berm |
 | COR001-000003-01 | 06/29/2026 | Rainy / 75–85°F | 09:45–17:30 | Continued excavation; **contaminated material found** in SW quadrant; GCL/fabric delivered |
 | COR001-000005-01 | 06/30/2026 | Partly Cloudy / 75–90°F | 10:00–17:01 | Contaminated material removal & backfill; EGLE on site; ~1500 cu yds removed |
+| COR001-000006-00 | 07/06/2026 | Sunny / 76–85°F | 09:30–14:30 | Continued 2" removal; began exposing existing liner (W side); HDPE liner delivered |
+| COR001-000007-00 | 07/07/2026 | Sunny / 70–80°F | 09:30–14:00 | Finished liner exposure (W); **tears found in liner**; E half backfilled w/ approved sand |
+| COR001-000008-00 | 07/08/2026 | Sunny / 75–90°F | 09:30–14:00 | Progress mtg; exposed "liner" was **rain flap**, not primary; located real liner; liner delivered |
+| COR001-000009-00 | 07/09/2026 | Rainy / 80–90°F | 09:30–14:00 | Continued exposing existing liner (W); 2" removal on W half |
+| COR001-000010-00 | 07/10/2026 | Sunny / 75–85°F | 10:00–13:30 | **Storm washouts/standing water** pumped to SE basin; finished W-side 2" excavation |
 
 > **Note on numbering:** Report numbers are not in strict date order — COR#4 (06/24) precedes COR#3 (06/29). The "-00" / "-01" suffix is the revision number (01 = first revision).
 
@@ -131,14 +136,111 @@
 
 ---
 
+### COR001-000006-00 — 07/06/2026
+
+- **Contractor:** M&M
+- **Time on site:** 09:30 – 14:30
+- **Weather / Temp:** Sunny / 76–85°F
+- **Manpower:** Foreman: 1 · Operators: 2 · Laborers: 3
+- **Equipment:** Loaders: 1 · Dozers: 2 · Excavators: 1 · Compactors: 1
+- **Activities:**
+  - M&M continued removing approximately **2 inches of existing material** from the proposed cell.
+  - Began **exposing the existing liner along the west (W) side** of the proposed cell.
+  - Excavated material loaded into haul trucks and transported to the **active cell** for disposal.
+  - **Two truckloads of HDPE liner delivered** to site, then stored and inventoried per the CQA Plan.
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Liner delivery; (2) Exposed liner; (3) 2" ex material removal
+
+---
+
+### COR001-000007-00 — 07/07/2026
+
+- **Contractor:** M&M
+- **Time on site:** 09:30 – 14:00
+- **Weather / Temp:** Sunny / 70–80°F
+- **Manpower:** Foreman: 1 · Operators: 3 · Laborers: 2
+- **Equipment:** Loaders: 1 · Dozers: 2 · Excavators: 2 · Compactors: 1
+- **Activities:**
+  - M&M **completed exposing the existing liner** along the W side of the proposed cell.
+  - **Several areas of the liner observed to have tears.** Blake (from M&M) stated all exposed tears in the liner will be repaired.
+  - Completed removal of ~2 inches of existing material from the **east (E) half** of the proposed cell.
+  - Began placing **CQA Plan-approved sand** to backfill the E half and bring the sub-grade to required design grade.
+  - **No liner delivered** while inspector on site.
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Liner exposed looking S; (2) Liner exposed looking N; (3) Backfill with approved sand
+
+---
+
+### COR001-000008-00 — 07/08/2026
+
+- **Contractor:** M&M
+- **Time on site:** 09:30 – 14:00
+- **Weather / Temp:** Sunny / 75–90°F
+- **Manpower:** Foreman: 1 · Operators: 3 · Laborers: 2
+- **Equipment:** Loaders: 1 · Dozers: 2 · Excavators: 2 · Compactors: 1
+- **Activities:**
+  - M&M continued **backfilling the 2-inch excavation on the E half** of the proposed cell with CQA Plan-approved sand.
+  - **Progress meeting with M&M held 10:00 a.m. – 12:00 p.m.** It was confirmed that the **previously exposed liner was the rain flap, NOT the primary liner.** Additional excavation required to expose the existing liner that the new liner will tie into.
+  - After the meeting, M&M continued excavation and **located the existing liner.** At the liner subcontractor's request, began exposing approximately **3 to 4 feet** of the existing liner to facilitate the tie-in of the new liner.
+  - **Three truckloads of liner delivered** and stored per the CQA Plan.
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) East half of proposed cell; (2) West half of proposed cell
+
+---
+
+### COR001-000009-00 — 07/09/2026
+
+- **Contractor:** M&M
+- **Time on site:** 09:30 – 14:00
+- **Weather / Temp:** Rainy / 80–90°F
+- **Manpower:** Foreman: 1 · Operators: 3 · Laborers: 2
+- **Equipment:** Loaders: 1 · Dozers: 2 · Excavators: 1 · Compactors: 1
+- **Activities:**
+  - M&M continued **exposing the existing liner on the W side** of the proposed cell; liner exposed ~**3–4 feet** per the liner subcontractor's request.
+  - Continued excavating **2" of existing material on the W half** of the proposed cell; excavated material loaded onto trucks and taken to the **active cell**.
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Existing liner exposed looking south; (2) Existing liner exposed looking north; (3) Overview of area worked
+
+---
+
+### COR001-000010-00 — 07/10/2026
+
+- **Contractor:** M&M
+- **Time on site:** 10:00 – 13:30
+- **Weather / Temp:** Sunny / 75–85°F
+- **Manpower:** Foreman: 1 · Operators: 3 · Laborers: 2
+- **Equipment:** Loaders: 1 · Dozers: 2 · Excavators: 1 · Compactors: 1
+- **Activities:**
+  - **Heavy rain and thunderstorms on 7/9** caused washouts and standing water in the proposed cell. M&M was **pumping storm water out of the proposed cell into the SE detention basin.**
+  - M&M **finished the 2" excavation of existing material on the W side** of the proposed cell.
+  - **Look-ahead:** M&M will be back on site **the week of the 20th** to finish grade and **begin digging the anchor trench.**
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Standing water in cell being pumped; (2) Water pumped to SE detention basin
+
+---
+
 ## Running Notes / Open Items to Track
 
-- **Contaminated material (SW/SE quadrant):** Discovered 06/29, actively removed 06/30. EGLE (John Ozoga) directed removal of wet contaminated material + backfill with clean existing material. ~1,500 cu yds removed as of 06/30. *Watch for follow-up reports confirming full removal / lab results.*
+- **Contaminated material (SW/SE quadrant):** Discovered 06/29, actively removed 06/30. EGLE (John Ozoga) directed removal of wet contaminated material + backfill with clean existing material. ~1,500 cu yds removed as of 06/30. *No further mention in reports 6–10 — appears resolved; watch for lab results.*
 - **Soil sampling:** Dan (GCES) collected 5 samples (SE quadrant) on 06/30 — *results pending.*
-- **Manhole & valve boxes (E side):** Sit 2' below new road height (flagged 06/29) — *unresolved; needs design/grading resolution.*
-- **18" HDPE pressure test:** Contractor requested switching from in-place hydrostatic test to above-ground air pressure test (06/24) — *no determination made yet.*
+- **Existing liner tears (W side):** Tears observed in exposed liner on 07/07. Blake (M&M) stated all exposed tears will be repaired — *track repair completion & verification.*
+- **Rain flap vs. primary liner:** On 07/08 it was confirmed the first-exposed liner was the **rain flap, not the primary liner.** Extra excavation required; real existing liner located same day and being exposed 3–4 ft for the new-liner tie-in (07/08–07/09). *Track completion of tie-in prep.*
+- **Anchor trench:** Not yet started. Per 07/10 report, M&M returns **week of the 20th** to finish grade and begin digging the anchor trench. *Upcoming.*
+- **Storm water / washouts:** Heavy rain 07/09 caused washouts + standing water in the cell; pumped to SE detention basin 07/10. *Watch for re-grading / repair of washout damage.*
+- **Manhole & valve boxes (E side):** Sit 2' below new road height (flagged 06/29) — *still no resolution noted in reports 7–10; unresolved.*
+- **18" HDPE pressure test:** Contractor requested switching from in-place hydrostatic test to above-ground air pressure test (06/24) — *no determination noted in reports 6–10; still open.*
 - **Leachate sand:** 4 samples taken 06/24 for gradation testing; 3 sent for additional testing — *results pending.*
-- **Liner materials:** GCL + nonwoven fabric (2 trucks) delivered 06/29, stored per CQA plan. No liner delivered 06/30.
+- **Liner materials delivered:** GCL + NW fabric (2 trucks) 06/29 · HDPE liner (2 trucks) 07/06 · liner (3 trucks) 07/08. All stored/inventoried per CQA Plan. None delivered 07/07, 07/09, 07/10.
 
 ---
 

@@ -17,7 +17,7 @@ below, and within each part the reports appear in the order they were provided.
 - **Part 5 — Laboratory Geosynthetic Testing (Geotechnics)** (1 report)
 - **Part 6 — Mechanical Analysis Report (sieve / gradation)** (2 reports)
 - **Part 7 — Panel Seaming Summary** (12 reports)
-- **Part 8 — Trial Weld Summary** (6 reports)
+- **Part 8 — Trial Weld Summary** (11 reports)
 
 ---
 
@@ -1940,8 +1940,15 @@ Pre-production trial (test) welds — the welder qualification welds run before 
 4. `Trial_Weld_Summary_04-00_2026-08-04.pdf` — Report # MF0086-000004-00
 5. `Trial_Weld_Summary_05-01_2026-08-08.pdf` — Report # MF0086-000005-01
 6. `Trial_Weld_Summary_06-01_2026-08-09.pdf` — Report # MF0086-000006-01
+7. `Trial_Weld_Summary_07-00_2026-08-12.pdf` — Report # MF0086-000007-00
+8. `Trial_Weld_Summary_08-00_2026-08-17.pdf` — Report # MF0086-000008-00
+9. `Trial_Weld_Summary_09-00_2026-08-18.pdf` — Report # MF0086-000009-00
+10. `Trial_Weld_Summary_13-00_2026-09-01.pdf` — Report # MF0086-000013-00
+11. `Trial_Weld_Summary_14-00_2026-09-02.pdf` — Report # MF0086-000014-00
 
-**Common header information (all six reports):**
+*(Reports 10, 11, 12 in this series were not provided.)*
+
+**Common header information (all eleven reports):**
 - **Company:** Gosling Czubak Engineering Sciences, Inc. — 1280 Business Park Drive, Traverse City, MI 49686 — (231) 946-9191
 - **Client:** Gosling Czubak Engineering Sciences
 - **Project:** 260006 — M-O-A Landfill, 6751 Landfill Rd, Atlanta, MI
@@ -2054,17 +2061,81 @@ Pre-production trial (test) welds — the welder qualification welds run before 
 
 ---
 
+## Report 7-00 — MF0086-000007-00
+
+- **Report #:** MF0086-000007-00 · **Date:** 08/12/2026 · **Material:** 60 mil HDPE T/T · **CQA:** Kyle Bridges · **Pages:** 1 · **Row count:** 1
+
+| Sample Id | Time | Welder | Amb (°F) | Equip | Type | Preheat (°F) | Speed | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | S1 | S2 | S3 | S4 | S5 | Results |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 14:32 | HL | 75 | 6416 | DT | 860 | 6 | 121 | 129 | 123 | 134 | 120 | 122 | 118 | 129 | 130 | 126 | 180 | 177 | 168 | 180 | 176 | Pass |
+
+---
+
+## Report 8-00 — MF0086-000008-00
+
+- **Report #:** MF0086-000008-00 · **Date:** 08/17/2026 · **Material:** 60 mil HDPE T/T · **CQA:** Kyle Bridges · **Pages:** 1 · **Row count:** 4 (all DT)
+
+| Sample Id | Time | Welder | Amb (°F) | Equip | Type | Preheat (°F) | Speed | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | S1 | S2 | S3 | S4 | S5 | Results |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 10:13 | HL | 70 | 6416 | DT | 860 | 4 | 121 | 117 | 127 | 120 | 133 | 128 | 128 | 117 | 125 | 117 | 185 | 169 | 186 | 177 | 185 | Pass |
+| 2 | 10:19 | HL | 70 | 6416 | DT | 860 | 5.5 | 147 | 124 | 126 | 126 | 141 | 143 | 138 | 118 | 147 | 133 | 189 | 182 | 190 | 181 | 193 | Pass |
+| 3 | 10:29 | RM | 70 | 6050 | DT | 860 | 6 | 125 | 106 | 116 | 104 | 134 | 111 | 115 | 105 | 119 | 107 | 181 | 179 | 170 | 168 | 181 | Pass |
+| 4 | 10:31 | RM | 70 | 6050 | DT | 860 | 5 | 150 | 122 | 133 | 115 | 122 | 127 | 126 | 113 | 129 | 122 | 176 | 167 | 177 | 166 | 178 | Pass |
+
+---
+
+## Report 9-00 — MF0086-000009-00
+
+- **Report #:** MF0086-000009-00 · **Date:** 08/18/2026 · **Material:** 60 mil HDPE T/T · **CQA:** Kyle Bridges · **Pages:** 1 · **Row count:** 4 (all DT)
+
+| Sample Id | Time | Welder | Amb (°F) | Equip | Type | Preheat (°F) | Speed | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | S1 | S2 | S3 | S4 | S5 | Results |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 10:40 | RM | 65 | 6050 | DT | 860 | 5.5 | 132 | 139 | 120 | 113 | 134 | 138 | 133 | 136 | 134 | 113 | 181 | 172 | 184 | 175 | 185 | Pass |
+| 2 | 10:45 | RM | 65 | 6050 | DT | 860 | 4 | 146 | 150 | 131 | 130 | 144 | 137 | 146 | 139 | 128 | 115 | 198 | 179 | 195 | 182 | 193 | Pass |
+| 3 | 10:45 | HL | 65 | 6416 | DT | 860 | 5.5 | 107 | 119 | 108 | 126 | 115 | 131 | 138 | 130 | 119 | 121 | 172 | 168 | 175 | 158 | 177 | Pass |
+| 4 | 10:47 | HL | 65 | 6416 | DT | 860 | 4 | 111 | 132 | 132 | 122 | 129 | 117 | 140 | 110 | 129 | 130 | 186 | 172 | 189 | 174 | 180 | Pass |
+
+---
+
+## Report 13-00 — MF0086-000013-00
+
+- **Report #:** MF0086-000013-00 · **Date:** 09/01/2026 · **Material:** 60 mil HDPE T/T · **CQA:** Kyle Bridges · **Pages:** 1 · **Row count:** 4 (all DT)
+
+| Sample Id | Time | Welder | Amb (°F) | Equip | Type | Preheat (°F) | Speed | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | S1 | S2 | S3 | S4 | S5 | Results |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 13:20 | RM | 75 | 6050 | DT | 860 | 4.5 | 137 | 129 | 132 | 135 | 127 | 131 | 129 | 124 | 131 | 128 | 162 | 157 | 148 | 158 | 159 | Pass |
+| 2 | 13:28 | RM | 75 | 6050 | DT | 860 | 6 | 118 | 113 | 110 | 100 | 129 | 135 | 114 | 97 | 130 | 116 | 159 | 145 | 158 | 143 | 157 | Pass |
+| 3 | 13:32 | HL | 75 | 6416 | DT | 860 | 5.5 | 130 | 130 | 125 | 107 | 126 | 118 | 129 | 116 | 130 | 116 | 172 | 161 | 175 | 164 | 176 | Pass |
+| 4 | 13:34 | HL | 75 | 6416 | DT | 860 | 3.5 | 142 | 135 | 121 | 113 | 130 | 128 | 114 | 131 | 148 | 120 | 169 | 158 | 173 | 157 | 172 | Pass |
+
+---
+
+## Report 14-00 — MF0086-000014-00
+
+- **Report #:** MF0086-000014-00 · **Date:** 09/02/2026 · **Material:** 60 mil HDPE T/T · **CQA:** Kyle Bridges · **Pages:** 1 · **Row count:** 4 (3 DT + 1 EXT)
+- Row 4 is an **extrusion weld**: welder OA, Equip. **X028** (alphanumeric ID), Preheat 500, speed blank, peel 6–10 printed as "-".
+
+| Sample Id | Time | Welder | Amb (°F) | Equip | Type | Preheat (°F) | Speed | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | S1 | S2 | S3 | S4 | S5 | Results |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 11:50 | HL | 70 | 6416 | DT | 860 | 4.5 | 118 | 128 | 123 | 115 | 119 | 125 | 121 | 119 | 115 | 127 | 175 | 168 | 173 | 167 | 171 | Pass |
+| 2 | 11:48 | HL | 70 | 6416 | DT | 860 | 3 | 125 | 130 | 118 | 123 | 123 | 121 | 121 | 118 | 127 | 125 | 170 | 168 | 173 | 180 | 183 | Pass |
+| 3 | 11:53 | HL | 70 | 6416 | DT | 860 | 3.5 | 121 | 118 | 119 | 121 | 127 | 131 | 131 | 127 | 125 | 118 | 171 | 175 | 168 | 173 | 171 | Pass |
+| 4 | 16:15 | OA | 75 | X028 | EXT | 500 | | 129 | 127 | 135 | 133 | 120 | - | - | - | - | - | 170 | 185 | 180 | 178 | 182 | Pass |
+
+---
+
 ## Part 8 — Notes / observations
 
-- **Every trial weld across all 6 reports PASSES** (24 trial welds total). No failures.
+- **Every trial weld across all 11 reports PASSES** (41 trial welds total). No failures.
 - **Weld types:**
   - Reports 1-01 and 2-01: single-track fusion welds (5 peel readings; Welder Type blank).
   - Report 3-00: dual-track (DT) welds, but only 5 peel readings recorded each.
-  - Reports 4-00, 5-01, 6-01: full **dual-track (DT) welds with 10 peel readings** each, plus **extrusion (EXT) welds** in reports 4-00 and 5-01.
+  - Reports 4-00, 5-01, 6-01, 7-00, 8-00, 9-00, 13-00, 14-00: full **dual-track (DT) welds with 10 peel readings** each, plus **extrusion (EXT) welds** in reports 4-00, 5-01, and 14-00.
 - **Fusion/DT welds** use Equip. 6050 (RM) or 6416 (HL/OA) at Preheat 860°F.
-- **Extrusion (EXT) welds** are different: Equip. **172** (report 4-00, welder JC) and **7542** (report 5-01, welder OA), Preheat **510 / 500°F** (not 860), and speed left blank or "-". This matches the two test types in the criteria block (Fusion Peel vs Extrusion Peel).
-- **Welders seen:** RM (6050), HL (6416), OA (6416 fusion and 7542 extrusion), JC (172 extrusion). RM/HL match the seaming logs; OA and JC are the extrusion-welder additions.
-- **Duplicate / non-unique Sample IDs are common** in this series — report 1-01 has two "Sample 3" rows; report 3-00 repeats IDs 2 (once HL, once RM). IDs appear to reset per welder or per weld rather than being globally unique. Transcribed as printed.
+- **Extrusion (EXT) welds** are different: Equip. **172** (report 4-00, welder JC), **7542** (report 5-01, welder OA), and **X028** (report 14-00, welder OA); Preheat **500–510°F** (not 860), speed left blank or "-", and only 5 peel readings (6–10 blank or "-"). This matches the two test types in the criteria block (Fusion Peel vs Extrusion Peel). The extrusion equipment IDs are inconsistent (172 / 7542 / X028) — possibly the same gun logged differently; verify.
+- **Welders seen:** RM (6050), HL (6416), OA (6416 fusion + 7542/X028 extrusion), JC (172 extrusion). RM/HL match the seaming logs; OA and JC are the extrusion-welder additions.
+- **Duplicate / non-unique Sample IDs are common** in this series — report 1-01 has two "Sample 3" rows; report 3-00 repeats ID 2 (once HL, once RM). IDs appear to reset per welder or per weld rather than being globally unique. Transcribed as printed.
 - **Preheat Temp = 860°F on every fusion/DT row** — the same 860 that appears as "Start/Stop Temp" throughout the Panel Seaming Summaries (Part 7). This confirms 860°F is the wedge preheat setpoint, supporting the earlier read that the seaming logs' constant 860 is a setpoint, not an individually measured value. (Extrusion welds use 500–510°F instead.)
-- **Test criteria match the destructive-test thresholds** (Part 2): Fusion Peel ≥ 91 ppi, Extrusion Peel ≥ 78 ppi, Shear ≥ 120 ppi. Every reading in every report clears these.
-- **Series status:** MF0086 reports **01 through 06** now provided (no gaps).
+- **Lowest readings observed** (all still passing): peel **97** (report 13-00, sample 2, P8) vs the 91 criterion; shear **138** vs the 120 criterion. Every value in all 11 reports clears the criteria — no failures anywhere.
+- **Test criteria match the destructive-test thresholds** (Part 2): Fusion Peel ≥ 91 ppi, Extrusion Peel ≥ 78 ppi, Shear ≥ 120 ppi.
+- **Series status:** MF0086 reports **01–09, 13, 14** now provided; **reports 10, 11, 12 are missing** (not in any batch yet).

@@ -15,6 +15,8 @@ below, and within each part the reports appear in the order they were provided.
 - **Part 3 — Geosynthetic Panel Placement Log (GCL)** (11 reports)
 - **Part 4 — Geosynthetic Panel Placement Log (Geomembrane)** (13 reports — incl. 1 misfiled GCL report)
 - **Part 5 — Laboratory Geosynthetic Testing (Geotechnics)** (1 report)
+- **Part 6 — Mechanical Analysis Report (sieve / gradation)** (2 reports)
+- **Part 7 — Panel Seaming Summary** (3 reports)
 
 ---
 
@@ -1369,3 +1371,238 @@ These are third-party laboratory test reports — a different document family fr
 - **Different firm:** this report is from Geotechnics (East Pittsburgh, PA), not Gosling Czubak — Gosling Czubak is the *client* here. Project number is the lab's own (L26-112-008), unrelated to the field-report project number (260006).
 - **GCL product identified:** Solmax NS 75 Peel 35 GCL, Roll # 0250-000030. (The "0250" roll prefix echoes the unusual `00xx`/`0250` roll format seen in GCL field report 23-00.)
 - **Row count:** 36 displacement/stress data points.
+
+---
+
+# PART 6 — MECHANICAL ANALYSIS REPORT (SIEVE / GRADATION)
+
+Sieve (gradation) analysis of granular aggregate — another new document type. Produced by Gosling Czubak; signed off by an aggregate inspector (not the CQA personnel on the geosynthetic logs).
+
+**Source documents (in order provided):**
+1. `MECHANICAL_ANALYSIS_REPORT_T1_-_1901_22010224_2026-09-04.pdf` — Mechanical Analysis Report (1901), Test No. 1, sample 22010224
+2. `MECHANICAL_ANALYSIS_REPORT_T2_-_1901_22010205_2026-09-04.pdf` — Mechanical Analysis Report (1901), Test No. 2, sample 22010205
+
+**Common header information (both reports):**
+- **Company:** Gosling Czubak Engineering Sciences, Inc. — 1280 Business Park Drive, Traverse City, MI 49686 — (231) 946-9191
+- **Client:** Gosling Czubak Engineering Sciences
+- **Project:** 260006 — M-O-A Landfill, 6751 Landfill Rd, Atlanta, MI
+- **Document title:** Mechanical Analysis Report (1901)
+- **Material:** Granular Material
+- **Sampled From:** Mini-Stockpile
+- **Specification:** 10B
+- **Producer:** M&M
+- **Job Number:** (blank) · **Control Section:** (blank)
+- **Aggregate Inspector:** Matthew Scott
+- **Date:** 09/04/2026 (both)
+
+> **Sieve table columns:** Sieve | Retained Fractional — Weight | Retained Fractional — Percent | Cumulative Retained | Cumulative Passing | Specification. Blank sieve rows (3", 2½", 2", 1½", ¾", ¼") are omitted below; they are empty in the source.
+
+---
+
+## Report T1 — Mechanical Analysis (1901), Test No. 1
+
+- **Test Number:** 1 · **Date:** 09/04/2026 · **Sample (from filename):** 22010224
+- **Initial Weight of Sample:** 1266
+- **Initial Weight of Sample (Dry):** 1215 gm
+- **Weight After Washing:** 1199 gm
+- **Loss By Washing (Clay & Silt):** 16 gm — 1 %
+- **Moisture Content:** 51 gm — 4.2 %
+- **Fineness Modulus / Crushed Material / Organic Plate No. / Clay-Ironstone / Soft Particles (1) / Chert (2) / Sum (1)+(2) / Crushed Concrete Rubble / Pick Weight:** all blank
+- **Remarks:** Sample is within grading requirements for 10B
+- **Result:** ☑ **Meets** (Fails unchecked)
+
+| Sieve | Retained Weight | Retained % | Cumulative Retained | Cumulative Passing | Specification |
+|---|---|---|---|---|---|
+| 1" | 0 | 0.0 | 0.0 | 100 | 100 |
+| 1/2" | 5 | 0.4 | 0.4 | 100 | 85-100 |
+| 3/8" | 8 | 0.7 | 1.1 | 99 | |
+| No. 4 | 89 | 7.3 | 8.4 | 92 | 75-100 |
+| No. 8 | 98 | 8.1 | 16.5 | 84 | |
+| No. 10 | 23 | 1.9 | 18.4 | 82 | 60-95 |
+| No. 16 | 60 | 4.9 | 23.3 | 77 | |
+| No. 30 | 152 | 12.5 | 35.8 | 64 | |
+| No. 40 | 224 | 18.4 | 54.2 | 46 | 0-50 |
+| No. 50 | 307 | 25.4 | 79.6 | 20 | |
+| No. 100 | 218 | 17.9 | 97.5 | 3 | 0-15 |
+| PAN | 15 | 1.2 | 98.7 | 1 | |
+| LBW | 16 | 1.3 | 100.0 | | 0-5 |
+| **TOTAL** | **1215** | **100.0** | | | |
+
+---
+
+## Report T2 — Mechanical Analysis (1901), Test No. 2
+
+- **Test Number:** 2 · **Date:** 09/04/2026 · **Sample (from filename):** 22010205
+- **Initial Weight of Sample:** 1173
+- **Initial Weight of Sample (Dry):** 1124 gm
+- **Weight After Washing:** 1107 gm
+- **Loss By Washing (Clay & Silt):** 17 gm — 2 %
+- **Moisture Content:** 49 gm — 4.4 %
+- **Fineness Modulus / Crushed Material / Organic Plate No. / Clay-Ironstone / Soft Particles (1) / Chert (2) / Sum (1)+(2) / Crushed Concrete Rubble / Pick Weight:** all blank
+- **Remarks:** Sample is within grading requirements for 10B
+- **Result:** ☑ **Meets** (Fails unchecked)
+
+| Sieve | Retained Weight | Retained % | Cumulative Retained | Cumulative Passing | Specification |
+|---|---|---|---|---|---|
+| 1" | 0 | 0.0 | 0.0 | 100 | 100 |
+| 1/2" | 6 | 0.5 | 0.5 | 100 | 85-100 |
+| 3/8" | 0 | 0.0 | 0.5 | 100 | |
+| No. 4 | 88 | 7.8 | 8.3 | 92 | 75-100 |
+| No. 8 | 89 | 7.9 | 16.2 | 84 | |
+| No. 10 | 21 | 1.9 | 18.1 | 82 | 60-95 |
+| No. 16 | 56 | 5.0 | 23.1 | 77 | |
+| No. 30 | 140 | 12.5 | 35.6 | 64 | |
+| No. 40 | 208 | 18.5 | 54.1 | 46 | 0-50 |
+| No. 50 | 283 | 25.2 | 79.3 | 21 | |
+| No. 100 | 201 | 17.9 | 97.2 | 3 | 0-15 |
+| PAN | 15 | 1.3 | 98.5 | 2 | |
+| LBW | 17 | 1.5 | 100.0 | | 0-5 |
+| **TOTAL** | **1124** | **100.0** | | | |
+
+---
+
+## Part 6 — Notes / observations
+
+- **Both samples PASS** ("Meets"), both within grading requirements for spec 10B.
+- Both are the same material (Granular Material, 10B, producer M&M, Mini-Stockpile), tested the same day (09/04/2026) by inspector Matthew Scott. T1 and T2 are two separate test samples of the same stockpile.
+- **Gradations are nearly identical** between T1 and T2 (cumulative passing matches at most sieves: 100/100/99→100/92/84/82/77/64/46/20→21/3/1→2).
+- **Document number "1901"** in the title is the report-form number, not a project/sample ID. The sample IDs (22010224, 22010205) come from the filenames and are not printed in the visible body except via the file label.
+- The many blank test fields (fineness modulus, crushed material, chert, etc.) are part of the standard form and were simply not filled for this material.
+
+---
+
+# PART 7 — PANEL SEAMING SUMMARY
+
+Field log of geomembrane seam welds (fusion welder runs) — new document type, MF0085 report series (distinct from the MF01 panel-placement series and the MF0084 destructive series). Two of the three reports are **markup copies** carrying reviewer annotations.
+
+**Source documents (in order provided):**
+1. `Panel_Seaming_Summary_01-00_2026-07-31_markup.pdf` — Report # MF0085-000001-00 *(markup copy)*
+2. `Panel_Seaming_Summary_02-00_2026-08-01_markup.pdf` — Report # MF0085-000002-00 *(markup copy)*
+3. `Panel_Seaming_Summary_03-00_2026-08-03.pdf` — Report # MF0085-000003-00
+
+**Common header information (all three reports):**
+- **Company:** Gosling Czubak Engineering Sciences, Inc. — 1280 Business Park Drive, Traverse City, MI 49686 — (231) 946-9191
+- **Client:** Gosling Czubak Engineering Sciences
+- **Project:** 260006 — M-O-A Landfill, 6751 Landfill Rd, Atlanta, MI
+- **Document title:** Panel Seaming Summary
+- **CQA Personnel:** Kyle Bridges (all reports)
+- **Material:** 60 mil HDPE T/T (all reports)
+- **Notes legend:** T = Textured · S = Smooth
+
+> **Columns:** Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length | Test Date | Sample ID | Comments.
+> The **Test Date, Sample ID, and Comments** columns are blank on every row of all three reports. **Start Temp and Stop Temp are 860 (°F) on every row** (wedge-weld temperature).
+
+---
+
+## Report 1-00 — MF0085-000001-00  *(markup copy)*
+
+- **Report #:** MF0085-000001-00
+- **Date:** 07/31/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** 6050/6416
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 2 (page 1 header-only; table on page 2)
+- **Row count:** 21
+- **Reviewer markup (blue text on page 1):** *"Pete - can you make the table start on the first page and then wrap onto the second?"* (a formatting request, not a data correction)
+- **Total Seam Length (ft):** 828 *(verified: row lengths sum to 828)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P1/P3 | 09:55 | 860 | 09:10 | 860 | 75 | RM | 6050 | 60 |
+| P3/P4 | 09:10 | 860 | 10:10 | 860 | 75 | RM | 6050 | 60 |
+| P4/P5 | 10:16 | 860 | 10:24 | 860 | 75 | RM | 6050 | 60 |
+| P5/P6 | 10:43 | 860 | 10:51 | 860 | 75 | RM | 6050 | 60 |
+| P6/P7 | 10:43 | 860 | 11:03 | 860 | 75 | RM | 6050 | 60 |
+| P7/P8 | 10:56 | 860 | 11:03 | 860 | 75 | RM | 6050 | 60 |
+| P8/P9 | 11:17 | 860 | 11:11 | 860 | 75 | RM | 6050 | 24 |
+| P9P10 | 11:17 | 860 | 11:25 | 860 | 75 | RM | 6050 | 60 |
+| P10/P11 | 11:28 | 860 | 11:35 | 860 | 75 | RM | 6050 | 60 |
+| P12/P13 | 11:37 | 860 | 11:37 | 860 | 75 | RM | 6050 | 60 |
+| P14/P12 | 01:13 | 860 | 13:17 | 860 | 75 | RM | 6050 | 24 |
+| P14/P11 | 13:17 | 860 | 13:20 | 860 | 75 | RM | 6050 | 24 |
+| P14/P10 | 13:20 | 860 | 13:23 | 860 | 75 | RM | 6050 | 24 |
+| P14/P8 | 13:23 | 860 | 13:27 | 860 | 75 | RM | 6050 | 24 |
+| P14/P7 | 13:27 | 860 | 13:31 | 860 | 75 | RM | 6050 | 24 |
+| P14/P6 | 13:31 | 860 | 13:34 | 860 | 75 | RM | 6050 | 24 |
+| P14/P5 | 13:34 | 860 | 13:37 | 860 | 75 | RM | 6050 | 24 |
+| P14/P4 | 13:37 | 860 | 13:41 | 860 | 75 | RM | 6050 | 24 |
+| P14/P3 | 13:41 | 860 | 13:44 | 860 | 75 | RM | 6050 | 24 |
+| P14/P2 | 13:44 | 860 | 13:47 | 860 | 75 | RM | 6050 | 24 |
+| P1/P2 | 09:57 | 860 | 09:10 | 860 | 75 | HL | 6416 | 24 |
+
+---
+
+## Report 2-00 — MF0085-000002-00  *(markup copy)*
+
+- **Report #:** MF0085-000002-00
+- **Date:** 08/01/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** 6050/6416
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 7
+- **Reviewer markup (red box + arrow):** *"Confirm stop time"* — pointing at the **Stop Time of the last two rows (P17/P18 and P18/P19), both highlighted yellow at 21:47** (9:47 PM, implausible vs. the ~09:xx start times; likely should be 09:47).
+- **Total Seam Length (ft):** 948 *(verified: row lengths sum to 948)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P14/P15 | 08:36 | 860 | 09:08 | 860 | 65 | RM | 6050 | 300 |
+| P15/P16 | 08:52 | 860 | 09:07 | 860 | 65 | HL | 6416 | 160 |
+| P16/P17 | 08:45 | 860 | 08:48 | 860 | 65 | HL | 6416 | 24 |
+| P15/P17 | 09:07 | 860 | 09:22 | 860 | 65 | HL | 6416 | 140 |
+| P16/P18 | 09:30 | 860 | 09:47 | 860 | 65 | RM | 6050 | 160 |
+| P17/P18 | 09:47 | 860 | **21:47** ⚠️ | 860 | 65 | RM | 6050 | 140 |
+| P18/P19 | 09:44 | 860 | **21:47** ⚠️ | 860 | 65 | RM | 6050 | 24 |
+
+---
+
+## Report 3-00 — MF0085-000003-00
+
+- **Report #:** MF0085-000003-00
+- **Date:** 08/03/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in this report's header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 2
+- **Row count:** 21
+- **Total Seam Length (ft):** 2896 *(verified: row lengths sum to 2896)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P18/20 | 08:23 | 860 | 09:03 | 860 | 65 | HL | 6416 | 300 |
+| P23/25 | 13:25 | 860 | 13:52 | 860 | 78 | HL | 6416 | 200 |
+| P23/24 | 13:11 | 860 | 13:15 | 860 | 78 | HL | 6416 | 24 |
+| P25/24 | 13:52 | 860 | 14:02 | 860 | 78 | HL | 6416 | 180 |
+| P28/30 | 14:55 | 860 | 15:17 | 860 | 80 | HL | 6416 | 170 |
+| P29/30 | 14:44 | 860 | 14:55 | 860 | 80 | HL | 6416 | 120 |
+| P29/31 | 14:36 | 860 | 14:44 | 860 | 80 | HL | 6416 | 70 |
+| P32/31 | 15:29 | 860 | 15:38 | 860 | 80 | HL | 6416 | 70 |
+| P32/30 | 15:38 | 860 | 16:11 | 860 | 80 | HL | 6416 | 290 |
+| P20/21 | 08:51 | 860 | 09:05 | 860 | 65 | RM | 6050 | 70 |
+| P22/21 | 08:43 | 860 | 08:48 | 860 | 65 | RM | 6050 | 24 |
+| P22/20 | 09:05 | 860 | 09:30 | 860 | 65 | RM | 6050 | 280 |
+| P23/21 | 13:01 | 860 | 13:12 | 860 | 78 | RM | 6050 | 70 |
+| P23/22 | 13:12 | 860 | 13:15 | 860 | 78 | RM | 6050 | 130 |
+| P22/24 | 13:27 | 860 | 13:35 | 860 | 78 | RM | 6050 | 150 |
+| P28/29 | 14:09 | 860 | 14:11 | 860 | 78 | RM | 6050 | 24 |
+| P27/29 | 14:25 | 860 | 14:44 | 860 | 78 | RM | 6050 | 190 |
+| P27/28 | 14:44 | 860 | 14:55 | 860 | 78 | RM | 6050 | 130 |
+| P26/31 | 14:55 | 860 | 15:02 | 860 | 78 | RM | 6050 | 40 |
+| P30/31 | 14:20 | 860 | 14:24 | 860 | 78 | RM | 6050 | 24 |
+| P26/Ex | 15:30 | 860 | 15:43 | 860 | 80 | RM | 6050 | 40 |
+| P27/Ex | 15:43 | 860 | 16:30 | 860 | 80 | RM | 6050 | 300 |
+
+---
+
+## Part 7 — Notes / observations
+
+- **Reviewer markups (2 of 3 reports are marked up):**
+  - Report 1-00: a formatting request to "Pete" — *"make the table start on the first page and then wrap onto the second."* No data impact.
+  - Report 2-00: *"Confirm stop time"* on the two yellow-highlighted stop times of **21:47** (P17/P18 and P18/P19). Both are almost certainly **09:47** mistyped as 21:47 — the starts are 09:47 and 09:44. This is a genuine open data question flagged on the source.
+- **Start Time > Stop Time on several rows** (times apparently out of order), e.g. Report 1-00: P1/P3 (start 09:55, stop 09:10), P8/P9 (11:17→11:11), P1/P2 (09:57→09:10); and P14/P12 start "01:13" (likely 13:13 / 1:13 PM). These look like transcription/AM-PM errors in the original log, not my reading. Verify.
+- **Totals verified:** each report's listed Total Seam Length equals the sum of its row lengths — 828, 948, 2896. (This also confirms no rows were missed.)
+- **Two welders / machines:** Tech RM runs Equip. 6050; Tech HL runs Equip. 6416. Consistent across all three reports.
+- **Report 3-00 header omits the Machine Number** field that reports 1-00 and 2-00 show (6050/6416). The per-row Equip. ID column still identifies the machines.
+- **Report numbering:** this is the **MF0085** series (seaming), separate from MF01 (panel placement) and MF0084 (destructive). Reports 01, 02, 03 provided.
+- **Seam Number format differs from the air-channel report (Part 1):** here seams are written like "P1/P3", "P14/P12" (with the "P" repeated); Part 1 wrote them "P1/3". Same seam-naming scheme, different punctuation.
+- **Grand total seam length across the three reports:** 828 + 948 + 2896 = **4672 ft** (49 seam rows).

@@ -12,7 +12,8 @@ below, and within each part the reports appear in the order they were provided.
 **Contents:**
 - **Part 1 — Air Channel Pressure Test Summary** (4 reports)
 - **Part 2 — Destructive Test Summary** (3 reports)
-- **Part 3 — Geosynthetic Panel Placement Log (GCL)** (10 reports)
+- **Part 3 — Geosynthetic Panel Placement Log (GCL)** (11 reports)
+- **Part 4 — Geosynthetic Panel Placement Log (Geomembrane)** (4 reports)
 
 ---
 
@@ -357,8 +358,9 @@ Samp.Id | Seam No | Date Welded | Welder Initials | Equipment No | Sample Locati
 8. `GCL_Geosynthetic_Panel_Placement_Log_15-00_2026-08-17.pdf` — Report # MF01-000015-00
 9. `GCL_Geosynthetic_Panel_Placement_Log_17-00_2026-08-18_markup.pdf` — Report # MF01-000017-00 *(markup copy)*
 10. `GCL_Geosynthetic_Panel_Placement_Log_19-00_2026-08-13.pdf` — Report # MF01-000019-00
+11. `GCL_Geosynthetic_Panel_Placement_Log_23-00_2026-09-01.pdf` — Report # MF01-000023-00
 
-**Common header information (all ten reports):**
+**Common header information (all eleven reports):**
 - **Company:** Gosling Czubak Engineering Sciences, Inc.
 - **Company Address:** 1280 Business Park Drive, Traverse City, MI 49686
 - **Phone:** (231) 946-9191
@@ -779,6 +781,38 @@ T = Textured · S = Smooth · W = Woven · NW = Nonwoven
 
 ---
 
+## Report 23-00 — MF01-000023-00
+
+- **Report #:** MF01-000023-00
+- **Date:** 09/01/2026
+- **Material:** GCL
+- **Weather:** Cloudy
+- **Temp. (°F):** 70-85
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 16 (P-132 → P-147 — continues the second/"Primary layer" sequence after report 17-00)
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-132 | 0030 | 15 | 200 | 3000 | | |
+| P-133 | 0026 | 15 | 150 | 2250 | | |
+| P-134 | 0026 | 15 | 50 | 750 | | |
+| P-135 | 0027 | 15 | 200 | 3000 | | |
+| P-136 | 0029 | 15 | 125 | 1875 | | |
+| P-137 | 0029 | 15 | 75 | 1125 | | |
+| P-138 | 0028 | 15 | 150 | 2250 | | |
+| P-139 | 0028 | 15 | 50 | 750 | | |
+| P-140 | 7235 | 15 | 50 | 750 | | |
+| P-141 | 7235 | 15 | 50 | 750 | | |
+| P-142 | 7235 | 15 | 20 | 300 | | |
+| P-143 | 7235 | 15 | 70 | 1050 | | |
+| P-144 | 7255 | 15 | 100 | 1500 | | |
+| P-145 | 7255 | 15 | 50 | 750 | | |
+| P-146 | 7255 | 15 | 20 | 300 | | |
+| P-147 | 7255 | 15 | 20 | 300 | | |
+
+---
+
 ## Part 3 — Notes / observations
 
 ### Two parallel panel-numbering sequences
@@ -786,9 +820,9 @@ The GCL logs contain **two independent P-numbering runs**. They are distinguishe
 
 - **Sequence A** (reports 01-00, 03-01, 06-00, 08-00, 11-00): panels **P-1 → P-127**, dated 07/31 → 08/09.
   - 01-00 (07/31): P-1–P-27 · 03-01 (08/01): P-28–P-39 · 06-00 (08/03): P-40–P-73 · 08-00 (08/04): P-74–P-101 · 11-00 (08/09): P-102–P-127
-- **Sequence B** — the **"Primary layer"** run (reports 10-01, 13-00, 19-00, 15-00, 17-00): panels **P-1 → P-131**, dated 08/08 → 08/18.
-  - 10-01 (08/08): P-1–P-15 (rows marked "Primary layer") · 13-00 (08/12): P-16–P-35 · 19-00 (08/13): P-36–P-63 · 15-00 (08/17): P-80–P-106 · 17-00 (08/18): P-108–P-131
-  - Only report 10-01 actually carries the "Primary layer" comment; 13-00/15-00/17-00/19-00 leave Comments blank, but their dates and numbering place them in this run.
+- **Sequence B** — the **"Primary layer"** run (reports 10-01, 13-00, 19-00, 15-00, 17-00, 23-00): panels **P-1 → P-147**, dated 08/08 → 09/01.
+  - 10-01 (08/08): P-1–P-15 (rows marked "Primary layer") · 13-00 (08/12): P-16–P-35 · 19-00 (08/13): P-36–P-63 · 15-00 (08/17): P-80–P-106 · 17-00 (08/18): P-108–P-131 · 23-00 (09/01): P-132–P-147
+  - Only report 10-01 actually carries the "Primary layer" comment; the rest leave Comments blank, but their dates and numbering place them in this run.
 
 ### Confirmed / flagged numbering anomalies
 - **Report 8-00 (Seq A):** panel **P-84 listed twice** (450 FT² and 1050 FT²) and **no P-83**. Both rows roll 7228. Likely one should be P-83 — verify.
@@ -796,21 +830,174 @@ The GCL logs contain **two independent P-numbering runs**. They are distinguishe
 - **Sequence B gap:** panels **P-64 → P-79 were not provided** (would fall between report 19-00 and report 15-00 — probably in a report numbered 14 or similar, not in this batch).
 - **Panel P-102–P-106 appear in BOTH sequences** — once in Seq A (report 11-00, rolls 7241/7247/7236) and once in Seq B (report 15-00, rolls 7141/7164/7202). Different rolls confirm these are different physical panels sharing a label across the two runs.
 
-### Roll-number outlier
+### Roll-number outliers
 - **Report 11-00, panels P-119 and P-120: roll number "7816"** — far outside the 71xx–72xx range used everywhere else. Appears twice, so it is consistent in the source, but it looks like a possible typo (e.g. for 7216). Transcribed as printed — verify.
+- **Report 23-00, panels P-132–P-139: roll numbers "0030, 0026, 0027, 0029, 0028"** — a different 4-digit `00xx` format from the `7xxx` rolls used in every other GCL report. Transcribed as printed (including leading zeros); likely a new roll-lot series, but verify.
 
-### Consistent across all ten reports
+### Consistent across all eleven GCL reports
 - **Width:** 15 FT on every panel except Report 1-00 P-24–P-27 (8 FT).
-- **Area check:** Area = Width × Length holds on every row across all ten reports. No arithmetic exceptions.
+- **Area check:** Area = Width × Length holds on every row across all eleven reports. No arithmetic exceptions.
 - **Sheet Type column:** blank on every panel, despite the printed T/S/W/NW legend.
 - **Comments:** blank everywhere except Report 10-01 ("Primary layer" on all 15 rows).
 - **Report 6-00** is a 2-page PDF with a header-only first page; its table is entirely on page 2.
 
-### Chronology & report-number gaps
-- Compiled in the order provided. First batch: 01, 03, 06, 08, 10. Second batch: 11, 13, 15, 17, 19. Note the second batch is **not** in date order — report 19-00 is dated 08/13, earlier than reports 15-00 (08/17) and 17-00 (08/18).
-- Missing report numbers in the MF01 series so far: 02, 04, 05, 07, 09, 12, 14, 16, 18 — these logs exist but were not provided.
+### Chronology & report-number series
+- Compiled in the order provided. Batch 1: 01, 03, 06, 08, 10. Batch 2: 11, 13, 15, 17, 19. Batch 3 (GCL part): 23. The batches are **not** strictly in date order — e.g. report 19-00 (08/13) predates reports 15-00 (08/17) and 17-00 (08/18).
+- **The MF01 report-number series is shared with the Geomembrane logs (Part 4).** The GCL "missing" numbers 02, 04, 05, 07 are in fact the Geomembrane reports. Across both materials the numbers still skipped so far are **09, 12, 14, 16, 18, 20, 21, 22** — not provided in any batch yet. **The report number alone does not identify the material; check the "Material" field.**
 
 ### Row totals (as listed)
 - **Sequence A:** 27 + 12 + 34 + 28 + 26 = **127 rows**
-- **Sequence B:** 15 + 20 + 28 + 27 + 23 = **113 rows**
-- **Grand total (all 10 GCL reports):** **240 panel rows**
+- **Sequence B:** 15 + 20 + 28 + 27 + 23 + 16 = **129 rows**
+- **Grand total (all 11 GCL reports):** **256 panel rows**
+
+---
+
+# PART 4 — GEOSYNTHETIC PANEL PLACEMENT LOG (GEOMEMBRANE)
+
+Same document title and column layout as Part 3, but the **Material is Geomembrane** (not GCL). These reports share the same MF01 report-number series as the GCL logs.
+
+**Source documents (in order provided):**
+1. `Geomembrane_Geosynthetic_Panel_Placement_Log_02-00_2026-07-31.pdf` — Report # MF01-000002-00
+2. `Geomembrane_Geosynthetic_Panel_Placement_Log_04-01_2026-08-01.pdf` — Report # MF01-000004-01
+3. `Geomembrane_Geosynthetic_Panel_Placement_Log_05-00_2026-08-03.pdf` — Report # MF01-000005-00
+4. `Geomembrane_Geosynthetic_Panel_Placement_Log_07-00_2026-08-04.pdf` — Report # MF01-000007-00
+
+**Common header information (all four reports):**
+- **Company:** Gosling Czubak Engineering Sciences, Inc.
+- **Company Address:** 1280 Business Park Drive, Traverse City, MI 49686
+- **Phone:** (231) 946-9191
+- **Client:** Gosling Czubak Engineering Sciences, 1280 Business Park Drive, Traverse City, MI 49686
+- **Project:** 260006 — M-O-A Landfill, 6751 Landfill Rd, Atlanta, MI
+- **Document title:** Geosynthetic Panel Placement Log
+- **CQA Personnel:** Kyle Bridges (all reports)
+- **Material:** Geomembrane (all reports)
+
+**Column definitions (all reports):**
+Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments
+
+**Sheet Type legend (printed in Notes on every report):**
+T = Textured · S = Smooth · W = Woven · NW = Nonwoven
+
+> **Width is 24 FT on every geomembrane panel** (vs. 15 FT for the GCL panels). The Sheet Type column is blank on every row.
+
+---
+
+## Report 2-00 — MF01-000002-00
+
+- **Report #:** MF01-000002-00
+- **Date:** 07/31/2026
+- **Material:** Geomembrane
+- **Weather:** Partly Cloudy
+- **Temp. (°F):** 70-84
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 14 (P-1 → P-14)
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-1 | 3908 | 24 | 60 | 1440 | | |
+| P-2 | 3908 | 24 | 60 | 1440 | | |
+| P-3 | 3908 | 24 | 60 | 1440 | | |
+| P-4 | 3908 | 24 | 60 | 1440 | | |
+| P-5 | 3908 | 24 | 60 | 1440 | | |
+| P-6 | 3908 | 24 | 60 | 1440 | | |
+| P-7 | 3908 | 24 | 60 | 1440 | | |
+| P-8 | 3908 | 24 | 50 | 1200 | | |
+| P-9 | 3909 | 24 | 10 | 240 | | Cross seam from new roll approximately 50' from toe of the slope |
+| P-10 | 3909 | 24 | 60 | 1440 | | |
+| P-11 | 3909 | 24 | 60 | 1440 | | |
+| P-12 | 3909 | 24 | 60 | 1440 | | |
+| P-13 | 3905 | 24 | 60 | 1440 | | |
+| P-14 | 3905 | 24 | 260 | 6240 | | |
+
+---
+
+## Report 4-01 — MF01-000004-01
+
+- **Report #:** MF01-000004-01
+- **Date:** 08/01/2026
+- **Material:** Geomembrane
+- **Weather:** Cloudy
+- **Temp. (°F):** 65-70
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 4 (P-15 → P-18)
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-15 | 3905 | 24 | 300 | 7200 | | |
+| P-16 | 3905 | 24 | 140 | 3360 | | |
+| P-17 | 3916 | 24 | 160 | 3840 | | |
+| P-18 | 3916 | 24 | 290 | 6960 | | |
+
+---
+
+## Report 5-00 — MF01-000005-00
+
+- **Report #:** MF01-000005-00
+- **Date:** 08/03/2026
+- **Material:** Geomembrane
+- **Weather:** Sunny
+- **Temp. (°F):** 65-80
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 13 (P-20 → P-32 — note: no P-19; see notes)
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-20 | 3922 | 24 | 400 | 9600 | | |
+| P-21 | 3922 | 24 | 70 | 1680 | | |
+| P-22 | 3911 | 24 | 280 | 6720 | | |
+| P-23 | 3911 | 24 | 200 | 4800 | | |
+| P-24 | 3923 | 24 | 180 | 4320 | | |
+| P-25 | 3923 | 24 | 280 | 6720 | | |
+| P-26 | 3923 | 24 | 40 | 960 | | |
+| P-27 | 3900 | 24 | 300 | 7200 | | |
+| P-28 | 3900 | 24 | 170 | 4080 | | |
+| P-29 | 3895 | 24 | 190 | 4560 | | |
+| P-30 | 3895 | 24 | 290 | 6960 | | |
+| P-31 | 3910 | 24 | 70 | 1680 | | |
+| P-32 | 3910 | 24 | 70 | 1680 | | |
+
+---
+
+## Report 7-00 — MF01-000007-00
+
+- **Report #:** MF01-000007-00
+- **Date:** 08/04/2026
+- **Material:** Geomembrane
+- **Weather:** Sunny
+- **Temp. (°F):** 71-85
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 13 (P-33 → P-45)
+
+| Panel Number | Roll Number | Width (FT) | Length (FT) | Area (FT²) | Sheet Type | Comments |
+|---|---|---|---|---|---|---|
+| P-33 | 3890 | 24 | 85 | 2040 | | |
+| P-34 | 3890 | 24 | 30 | 720 | | |
+| P-35 | 3890 | 24 | 10 | 240 | | |
+| P-36 | 3890 | 24 | 75 | 1800 | | |
+| P-37 | 3890 | 24 | 75 | 1800 | | |
+| P-38 | 3890 | 24 | 70 | 1680 | | |
+| P-39 | 3890 | 24 | 70 | 1680 | | |
+| P-40 | 3890 | 24 | 70 | 1680 | | |
+| P-41 | 3890 | 24 | 70 | 1680 | | |
+| P-42 | 3890 | 24 | 70 | 1680 | | |
+| P-43 | 3890 | 24 | 60 | 1440 | | |
+| P-44 | 3890 | 24 | 10 | 240 | | |
+| P-45 | 3890 | 24 | 30 | 720 | | |
+
+---
+
+## Part 4 — Notes / observations
+
+- **One continuous sequence:** The geomembrane panels run **P-1 → P-45** across the four reports (02-00: P-1–P-14, 04-01: P-15–P-18, 05-00: P-20–P-32, 07-00: P-33–P-45), dated 07/31 → 08/04. This is a separate numbering run from either GCL sequence.
+- **Missing panel P-19:** Report 4-01 ends at P-18 and Report 5-00 starts at P-20 — **there is no P-19** in the provided reports. It may be in a report not supplied, or a genuine gap. Verify.
+- **One comment in the whole set:** Report 2-00, panel **P-9** — *"Cross seam from new roll approximately 50' from toe of the slope."* All other Comments cells are blank.
+- **Width:** 24 FT on every geomembrane panel (GCL panels were 15 FT / occasionally 8 FT).
+- **Roll numbers** are in the 38xx–39xx range (3890, 3895, 3900, 3905, 3908, 3909, 3910, 3911, 3916, 3922, 3923) — a different range from the GCL rolls.
+- **Area check:** Area = Width × Length holds on every row (e.g., 24 × 60 = 1440; 24 × 400 = 9600). No arithmetic exceptions.
+- **Sheet Type column:** blank on every panel.
+- **Shared report-number series:** these are MF01 reports 02, 04, 05, 07 — interleaved with the GCL reports (01, 03, 06, 08, …) in the same numbering series.
+- **Row total (all 4 geomembrane reports):** 14 + 4 + 13 + 13 = **44 panel rows**.

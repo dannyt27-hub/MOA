@@ -16,7 +16,7 @@
 | **Client Phone** | (231) 946-9191 |
 | **Observing Firm** | Gosling Czubak Engineering Sciences, Inc. |
 | **Inspector (all reports to date)** | Kyle Bridges |
-| **Contractor** | M&M (M&M Excavating) |
+| **Contractor(s)** | M&M (M&M Excavating) — earthwork/excavation · **CAAW** — liner installation (first appears 07/29) |
 
 ---
 
@@ -34,8 +34,13 @@
 | COR001-000008-00 | 07/08/2026 | Sunny / 75–90°F | 09:30–14:00 | Progress mtg; exposed "liner" was **rain flap**, not primary; located real liner; liner delivered |
 | COR001-000009-00 | 07/09/2026 | Rainy / 80–90°F | 09:30–14:00 | Continued exposing existing liner (W); 2" removal on W half |
 | COR001-000010-00 | 07/10/2026 | Sunny / 75–85°F | 10:00–13:30 | **Storm washouts/standing water** pumped to SE basin; finished W-side 2" excavation |
+| COR001-000011-00 | 07/20/2026 | Partly Cloudy / 70–80°F | 09:00–15:00 | Excavated center leachate-pipe trench; W-half 2" removal; pumping to SE basin |
+| COR001-000012-00 | 07/22/2026 | Sunny / 65–75°F | 09:00–13:00 | Backfill W half w/ approved sand; regrade slopes (erosion repair); liner inventory + pipe delivery |
+| COR001-000014-00 | 07/28/2026 | Sunny / 70–80°F | 09:30–14:00 | Grading W-half subbase; leachate trench excavation (light crew) |
+| COR001-000015-00 | 07/29/2026 | Sunny / 70–80°F | 09:01–15:00 | Progress mtg (M&M + **CAAW**); final grade W side; CAAW staging liner material |
+| COR001-000016-00 | 08/03/2026 | Sunny / 65–80°F | 07:15–17:00 | Sump + anchor trench excavation; **18" HDPE air pressure test PASSED**; **CAAW began liner install** |
 
-> **Note on numbering:** Report numbers are not in strict date order — COR#4 (06/24) precedes COR#3 (06/29). The "-00" / "-01" suffix is the revision number (01 = first revision).
+> **Note on numbering:** Report numbers are not in strict date order — COR#4 (06/24) precedes COR#3 (06/29). The "-00" / "-01" suffix is the revision number (01 = first revision). **Report #13 (COR001-000013) has not been provided** — gap between 07/22 (#12) and 07/28 (#14).
 
 ---
 
@@ -229,18 +234,115 @@
 
 ---
 
+### COR001-000011-00 — 07/20/2026
+
+- **Contractor:** M&M
+- **Time on site:** 09:00 – 15:00
+- **Weather / Temp:** Partly Cloudy / 70–80°F
+- **Manpower:** Foreman: 1 · Operators: 3 · Laborers: 1
+- **Equipment:** Loaders: 1 · Dozers: 2 · Excavators: 1
+- **Activities:**
+  - M&M **excavated the trench through the center of the proposed cell** for installation of the **leachate collection pipe**.
+  - Continued removal of ~2 inches of existing material from the **W half** of the proposed cell.
+  - Continued **pumping water** from the proposed cell to the **SE detention basin**.
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Overview of proposed cell; (2) Excavating trench
+
+---
+
+### COR001-000012-00 — 07/22/2026
+
+- **Contractor:** M&M
+- **Time on site:** 09:00 – 13:00
+- **Weather / Temp:** Sunny / 65–75°F
+- **Manpower:** Operators: 3 · Laborers: 1
+- **Equipment:** Loaders: 1 · Dozers: 2 · Excavators: 1
+- **Activities:**
+  - Continued **stockpiling CQA Plan-approved sand** along the W side of the proposed cell, then began **backfilling the W half** using the approved sand.
+  - Began **regrading the side slopes to repair erosion and washout** caused by rainfall over the past week.
+  - **Inventory count of all liner rolls** delivered to site was completed.
+  - **Multiple sizes and types of pipe delivered** to site. All delivered materials verified to be in accordance with the approved submittals. *(Photos show 8" PE4710 SDR17/IPS125 pipe and 18" DR17 IPS perforated pipe per approved drawing.)*
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Overview of area worked; (2–5) Pipe delivered (incl. material tags/labels)
+
+---
+
+### COR001-000014-00 — 07/28/2026
+
+- **Contractor:** M&M
+- **Time on site:** 09:30 – 14:00
+- **Weather / Temp:** Sunny / 70–80°F
+- **Manpower:** Foreman: 1 · Operators: 1
+- **Equipment:** Dozers: 1 · Excavators: 1
+- **Activities:**
+  - Continued **grading the W half of the proposed cell subbase**.
+  - Continued **excavation of the leachate trench**.
+  - *No other work done for the day* (light crew/equipment).
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) Overview of site; (2) Grading and excavation
+
+> *(Report #13 not provided — see numbering note above.)*
+
+---
+
+### COR001-000015-00 — 07/29/2026
+
+- **Contractor:** M&M, **CAAW**
+- **Time on site:** 09:01 – 15:00
+- **Weather / Temp:** Sunny / 70–80°F
+- **Manpower:** Foreman: 2 · Operators: 1
+- **Equipment:** Loaders: 1 · Dozers: 1 · Excavators: 1 · Skid Steer: 3
+- **Activities:**
+  - **Progress meeting at 10:00 a.m. with M&M and CAAW.** Discussed **final grade acceptance, liner install plan, and work schedule.**
+  - M&M continued **final grade on the W side** of the proposed cell.
+  - **CAAW began staging material** around the outside of the proposed cell. *(First appearance of CAAW, the liner-install subcontractor.)*
+- **Problems Encountered:** None
+- **Tests Performed:** —
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** None included
+
+---
+
+### COR001-000016-00 — 08/03/2026
+
+- **Contractor:** M&M, CAAW
+- **Time on site:** 07:15 – 17:00 *(longest day on site to date)*
+- **Weather / Temp:** Sunny / 65–80°F
+- **Manpower:** Foreman: 2 · Operators: 2 · Laborers: 13
+- **Equipment:** Loaders: 1 · Dozers: 2 · Excavators: 1 · Skid Steer: 3
+- **Activities:**
+  - **M&M** continued **excavation of the sump to required depth.** GPS readings: **1049.98 (SE corner)** and **1050.54 (NE corner)**.
+  - M&M continued **excavation of the anchor trench along the SE and S slopes**, following the anchor trench detail in the plans.
+  - **1-hour air pressure test performed on 80' of 18" HDPE at 10 psi — NO pressure drop over the hour → test PASSED.** *(This resolves the earlier HDPE pressure-test method question.)*
+  - **CAAW** continued **liner install across the base of the proposed slope**, per the CQA Plan.
+- **Problems Encountered:** None
+- **Tests Performed:** **Air pressure**
+- **Inspector:** Kyle Bridges
+- **Site Pictures:** (1) GCL install; (2) Overview of cell; (3) Start of pressure test; (4) End of pressure test; (5) Anchor trench excavation
+
+---
+
 ## Running Notes / Open Items to Track
 
 - **Contaminated material (SW/SE quadrant):** Discovered 06/29, actively removed 06/30. EGLE (John Ozoga) directed removal of wet contaminated material + backfill with clean existing material. ~1,500 cu yds removed as of 06/30. *No further mention in reports 6–10 — appears resolved; watch for lab results.*
 - **Soil sampling:** Dan (GCES) collected 5 samples (SE quadrant) on 06/30 — *results pending.*
-- **Existing liner tears (W side):** Tears observed in exposed liner on 07/07. Blake (M&M) stated all exposed tears will be repaired — *track repair completion & verification.*
-- **Rain flap vs. primary liner:** On 07/08 it was confirmed the first-exposed liner was the **rain flap, not the primary liner.** Extra excavation required; real existing liner located same day and being exposed 3–4 ft for the new-liner tie-in (07/08–07/09). *Track completion of tie-in prep.*
-- **Anchor trench:** Not yet started. Per 07/10 report, M&M returns **week of the 20th** to finish grade and begin digging the anchor trench. *Upcoming.*
-- **Storm water / washouts:** Heavy rain 07/09 caused washouts + standing water in the cell; pumped to SE detention basin 07/10. *Watch for re-grading / repair of washout damage.*
-- **Manhole & valve boxes (E side):** Sit 2' below new road height (flagged 06/29) — *still no resolution noted in reports 7–10; unresolved.*
-- **18" HDPE pressure test:** Contractor requested switching from in-place hydrostatic test to above-ground air pressure test (06/24) — *no determination noted in reports 6–10; still open.*
+- **18" HDPE pressure test:** ✅ **RESOLVED.** Contractor requested switching from in-place hydrostatic to above-ground air test (06/24). On **08/03** a 1-hr air pressure test on 80' of 18" HDPE at 10 psi held with no pressure drop — **test passed.**
+- **Liner install (CAAW):** Started **08/03** — liner installed across the base of the proposed slope per CQA Plan. Preceded by final-grade acceptance / install-plan meeting (07/29) and material staging. *Ongoing — track progress across remaining slopes/base.*
+- **Anchor trench:** ✅ **Started.** Excavation along SE and S slopes underway **08/03** per plan detail. *Ongoing.*
+- **Sump excavation:** In progress 08/03; GPS grades 1049.98 (SE) / 1050.54 (NE). *Track to required depth/acceptance.*
+- **Leachate collection system:** Center trench excavated 07/20; leachate trench excavation continued 07/28. Pipe delivered 07/22 (8" PE4710 & 18" DR17 perforated, per approved drawing). *Pipe install not yet reported.*
+- **Existing liner tears (W side):** Tears observed 07/07; Blake (M&M) said all would be repaired — *no explicit repair confirmation in reports 11–16; verify.*
+- **Rain flap vs. primary liner:** Confirmed 07/08 the first-exposed liner was the rain flap, not primary; real liner located and exposed 3–4 ft for tie-in (07/08–07/09). *New liner install now underway (08/03); tie-in execution not separately documented — verify.*
+- **Storm water / washouts:** Heavy rain 07/09 caused washouts; pumping continued through 07/20; **slope regrading / erosion repair began 07/22.** *Track completion.*
+- **Manhole & valve boxes (E side):** Sit 2' below new road height (flagged 06/29) — *still no resolution noted through 08/03; unresolved.*
 - **Leachate sand:** 4 samples taken 06/24 for gradation testing; 3 sent for additional testing — *results pending.*
-- **Liner materials delivered:** GCL + NW fabric (2 trucks) 06/29 · HDPE liner (2 trucks) 07/06 · liner (3 trucks) 07/08. All stored/inventoried per CQA Plan. None delivered 07/07, 07/09, 07/10.
+- **Material deliveries (running):** GCL + NW fabric (2 trucks) 06/29 · HDPE liner (2 trucks) 07/06 · liner (3 trucks) 07/08 · liner-roll inventory + multiple pipe sizes/types 07/22 (verified vs. approved submittals). All stored/inventoried per CQA Plan.
 
 ---
 

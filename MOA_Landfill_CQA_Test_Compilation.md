@@ -16,7 +16,8 @@ below, and within each part the reports appear in the order they were provided.
 - **Part 4 — Geosynthetic Panel Placement Log (Geomembrane)** (13 reports — incl. 1 misfiled GCL report)
 - **Part 5 — Laboratory Geosynthetic Testing (Geotechnics)** (1 report)
 - **Part 6 — Mechanical Analysis Report (sieve / gradation)** (2 reports)
-- **Part 7 — Panel Seaming Summary** (8 reports)
+- **Part 7 — Panel Seaming Summary** (12 reports)
+- **Part 8 — Trial Weld Summary** (1 report)
 
 ---
 
@@ -1484,8 +1485,14 @@ Field log of geomembrane seam welds (fusion welder runs) — new document type, 
 6. `Panel_Seaming_Summary_06-00_2026-08-09_markup.pdf` — Report # MF0085-000006-00 *(markup copy)*
 7. `Panel_Seaming_Summary_07-00_2026-08-12.pdf` — Report # MF0085-000007-00
 8. `Panel_Seaming_Summary_08-00_2026-08-17.pdf` — Report # MF0085-000008-00
+9. `Panel_Seaming_Summary_09-00_2026-08-18_markup.pdf` — Report # MF0085-000009-00 *(markup copy)*
+10. `Panel_Seaming_Summary_10-00_2026-08-13_markup.pdf` — Report # MF0085-000010-00 *(markup copy)*
+11. `Panel_Seaming_Summary_13-00_2026-09-04_markup.pdf` — Report # MF0085-000013-00 *(markup copy)*
+12. `Panel_Seaming_Summary_14-00_2026-09-02.pdf` — Report # MF0085-000014-00
 
-**Common header information (all eight reports):**
+*(Reports 11 and 12 in this series were not provided.)*
+
+**Common header information (all twelve reports):**
 - **Company:** Gosling Czubak Engineering Sciences, Inc. — 1280 Business Park Drive, Traverse City, MI 49686 — (231) 946-9191
 - **Client:** Gosling Czubak Engineering Sciences
 - **Project:** 260006 — M-O-A Landfill, 6751 Landfill Rd, Atlanta, MI
@@ -1767,29 +1774,213 @@ Field log of geomembrane seam welds (fusion welder runs) — new document type, 
 
 ---
 
+## Report 9-00 — MF0085-000009-00  *(markup copy)*
+
+- **Report #:** MF0085-000009-00
+- **Date:** 08/18/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 2
+- **Row count:** 27
+- **Reviewer markup (red box):** *"Overlapping Times, see below"* — rows **P10/43** (11:09–11:20) and **P47/48** (11:07–11:16) highlighted yellow (times overlap on the same machine/welder).
+- **Total Seam Length (ft):** 947 *(verified)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P45/46 | 12:05 | 860 | 12:11 | 860 | 70 | HL | 6416 | 50 |
+| P45/47 | 12:17 | 860 | 12:21 | 860 | 70 | HL | 6416 | 20 |
+| P48/49 | 11:18 | 860 | 11:26 | 860 | 70 | HL | 6416 | 70 |
+| P40/50 | 11:36 | 860 | 11:39 | 860 | 70 | HL | 6416 | 70 |
+| P50/51 | 11:43 | 860 | 11:50 | 860 | 70 | HL | 6416 | 70 |
+| P51/52 | 11:21 | 860 | 11:40 | 860 | 70 | RM | 6050 | 70 |
+| P52/53 | 11:43 | 860 | 11:53 | 860 | 70 | RM | 6050 | 70 |
+| P53/54 | 12:02 | 860 | 12:08 | 860 | 70 | RM | 6050 | 40 |
+| P53/44 | 12:08 | 860 | 12:14 | 860 | 70 | RM | 6050 | 30 |
+| P54/44 | 11:54 | 860 | 12:00 | 860 | 70 | RM | 6050 | 40 |
+| P43/44 | 10:52 | 860 | 11:02 | 860 | 70 | RM | 6050 | 30 |
+| P10/43 | **11:09** ⚠️ | 860 | 11:20 | 860 | 70 | HL | 6416 | 70 |
+| P46/47 | 11:50 | 860 | 12:01 | 860 | 70 | HL | 6416 | 50 |
+| P45/42 | 13:01 | 860 | 13:02 | 860 | 70 | HL | 6416 | 5 |
+| P47/42 | 13:02 | 860 | 13:07 | 860 | 70 | HL | 6416 | 24 |
+| P48/42 | 13:07 | 860 | 13:09 | 860 | 70 | HL | 6416 | 12 |
+| P48/39 | 13:09 | 860 | 13:12 | 860 | 70 | RM | 6050 | 12 |
+| P49/39 | 13:12 | 860 | 13:17 | 860 | 70 | RM | 6050 | 20 |
+| P49/37 | 13:17 | 860 | 13:19 | 860 | 70 | RM | 6050 | 4 |
+| P50/37 | 13:19 | 860 | 13:23 | 860 | 70 | RM | 6050 | 24 |
+| P51/37 | 13:23 | 860 | 13:24 | 860 | 70 | RM | 6050 | 3 |
+| P51/35 | 13:24 | 860 | 13:28 | 860 | 70 | RM | 6050 | 21 |
+| P47/48 | **11:07** ⚠️ | 860 | 11:16 | 860 | 70 | HL | 6416 | 70 |
+| P52/35 | 13:28 | 860 | 13:30 | 860 | 70 | RM | 6050 | 12 |
+| P52/33 | 13:30 | 860 | 13:32 | 860 | 70 | RM | 6050 | 12 |
+| P53/33 | 13:32 | 860 | 13:37 | 860 | 70 | RM | 6050 | 24 |
+| P43/33 | 13:37 | 860 | 13:42 | 860 | 70 | RM | 6050 | 24 |
+
+---
+
+## Report 10-00 — MF0085-000010-00  *(markup copy)*
+
+- **Report #:** MF0085-000010-00
+- **Date:** 08/13/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 13
+- **Reviewer markup (red box):** *"Verify times, overlap on same Eq ID"* — highlighted rows P16/18, P16/14, P16/17, P15/17 (times overlap on the same equipment). **Note two reversed-time rows:** P16/17 (10:48 → **10:44**, stop before start) and P20/21 (11:32 → **23:36**, highlighted; 23:36 almost certainly should be 11:36).
+- **Total Seam Length (ft):** 1802 *(verified)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P16/18 | **10:20** ⚠️ | 860 | **10:35** ⚠️ | 860 | 70 | HL | 6416 | 20 |
+| P17/19 | 11:15 | 860 | 11:52 | 860 | 70 | HL | 6416 | 320 |
+| P18/19 | 11:11 | 860 | 11:15 | 860 | 70 | HL | 6416 | 20 |
+| P16/15 | 10:03 | 860 | 10:07 | 860 | 70 | HL | 6416 | 24 |
+| P16/14 | **10:20** ⚠️ | 860 | **10:36** ⚠️ | 860 | 70 | HL | 6416 | 125 |
+| P15/14 | 10:36 | 860 | 10:48 | 860 | 70 | HL | 6416 | 310 |
+| P15/13 | 10:48 | 860 | 11:01 | 860 | 70 | HL | 6416 | 40 |
+| P16/17 | **10:48** ⚠️ | 860 | **10:44** ⚠️ | 860 | 70 | RM | 6050 | 320 |
+| P18/17 | 10:18 | 860 | 10:23 | 860 | 70 | RM | 6050 | 24 |
+| P19/20 | 12:16 | 860 | 12:32 | 860 | 70 | RM | 6050 | 40 |
+| P15/17 | **10:44** ⚠️ | 860 | **11:08** ⚠️ | 860 | 70 | RM | 6050 | 225 |
+| P19/21 | 11:44 | 860 | 12:16 | 860 | 70 | RM | 6050 | 310 |
+| P20/21 | 11:32 | 860 | **23:36** ⚠️ | 860 | 70 | RM | 6050 | 24 |
+
+---
+
+## Report 13-00 — MF0085-000013-00  *(markup copy)*
+
+- **Report #:** MF0085-000013-00
+- **Date:** 09/04/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 11
+- **Reviewer markup (red box):** *"Verify, 4 min for 130'"* — row **P57/56** highlighted (15:41–15:45 = 4 minutes to weld a 130-ft seam, i.e. ~32 ft/min, which the reviewer questions as implausibly fast).
+- **Total Seam Length (ft):** 907 *(verified)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P42/55 | 13:59 | 860 | 14:46 | 860 | 75 | RM | 6050 | 220 |
+| P56/55 | 13:50 | 860 | 14:03 | 860 | 75 | HL | 6416 | 120 |
+| P57/55 | 14:03 | 860 | 14:32 | 860 | 75 | HL | 6416 | 100 |
+| P57/56 | **15:41** ⚠️ | 860 | **15:45** ⚠️ | 860 | 75 | HL | 6416 | 130 |
+| P58/56 | 17:21 | 860 | 17:29 | 860 | 75 | HL | 6416 | 60 |
+| P58/57 | 17:29 | 860 | 17:32 | 860 | 78 | HL | 6416 | 22 |
+| P60/57 | 17:37 | 860 | 17:43 | 860 | 78 | HL | 6416 | 30 |
+| P59/21 | 17:54 | 860 | 18:00 | 860 | 78 | HL | 6416 | 35 |
+| P60/21 | 17:54 | 860 | 18:15 | 860 | 78 | RM | 6050 | 90 |
+| P58/21 | 18:00 | 860 | 18:12 | 860 | 78 | HL | 6416 | 70 |
+| P58/20 | 18:12 | 860 | 18:18 | 860 | 78 | HL | 6416 | 30 |
+
+---
+
+## Report 14-00 — MF0085-000014-00
+
+- **Report #:** MF0085-000014-00
+- **Date:** 09/02/2026
+- **Material:** 60 mil HDPE T/T
+- **Machine Number:** (not shown in header)
+- **CQA Personnel:** Kyle Bridges
+- **Pages:** 1
+- **Row count:** 5
+- **Total Seam Length (ft):** 280 *(verified)*
+
+| Seam Number | Start Time | Start Temp (F) | Stop Time | Stop Temp (F) | Ambient Temp (F) | Tech ID | Equip. ID | Seam Length |
+|---|---|---|---|---|---|---|---|---|
+| P45/61 | 08:36 | 860 | 08:47 | 860 | 70 | HL | 6416 | 70 |
+| P62/61 | 08:51 | 860 | 09:03 | 860 | 70 | HL | 6416 | 70 |
+| P62/63 | 14:19 | 860 | 14:35 | 860 | 75 | HL | 6416 | 70 |
+| P20/63 | 14:04 | 860 | 14:16 | 860 | 75 | HL | 6416 | 30 |
+| P20/64 | 15:09 | 860 | 15:11 | 860 | 75 | HL | 6416 | 40 |
+
+---
+
 ## Part 7 — Notes / observations
 
-### Reviewer markups (5 of 8 reports are marked up)
+### Reviewer markups (8 of 12 reports are marked up)
 - **Report 1-00:** formatting request to "Pete" — *"make the table start on the first page and then wrap onto the second."* No data impact.
 - **Report 2-00:** *"Confirm stop time"* on two yellow stop times of **21:47** (P17/P18, P18/P19). Almost certainly **09:47** mistyped (starts are 09:47/09:44).
 - **Report 4-00:** row **P36/35** highlighted — start and stop both **00:05**. A seam can't start and stop at the same minute; suspect time entry.
 - **Report 5-00:** red box *"Times are overlapped"* — P2/3 and P3/4 both start **11:35** on the same welder (RM/6050). Physically impossible; valid flag.
 - **Report 6-00 (heaviest):** three separate markups —
-  1. **Red "X" on 5 seams** (P56/57, P56/58, P57/25, P56/25, P58/51) with note *"I didn't see these seam IDs in the Air Channel Tests 8/10/26"* — a QA cross-check: these were seamed but have no matching air-channel pressure test. **Worth chasing: an unseam-tested seam is a real QA gap, not a typo.**
+  1. **Red "X" on 5 seams** (P56/57, P56/58, P57/25, P56/25, P58/51) with note *"I didn't see these seam IDs in the Air Channel Tests 8/10/26"* — a QA cross-check: these were seamed but have no matching air-channel pressure test. **Worth chasing: an untested seam is a real QA gap, not a typo.**
   2. Red box *"Time overlaps"* on many HL rows.
   3. **Ambient Temp = 250 on P56/25** — impossible; almost certainly should be ~75. (That row's Seam Length is also 250, which is legitimate and used in the verified total; only the ambient is wrong.)
+- **Report 9-00:** red box *"Overlapping Times, see below"* — P10/43 (11:09–11:20) and P47/48 (11:07–11:16) highlighted; times overlap other seams on the same machine.
+- **Report 10-00:** red box *"Verify times, overlap on same Eq ID."* Includes two reversed-time rows — **P16/17 stops (10:44) before it starts (10:48)** and **P20/21 stop 23:36** (should likely be 11:36).
+- **Report 13-00:** red box *"Verify, 4 min for 130'"* — row **P57/56** welds a 130-ft seam in 4 minutes (~32 ft/min), flagged as implausibly fast for a fusion weld.
 
-### Data-quality patterns (across all 8 reports)
-- **Start Time > Stop Time / out-of-order times** recur throughout (e.g. Report 1-00 P1/P3 09:55→09:10, P8/P9 11:17→11:11; Report 1-00 P14/P12 start "01:13"). These look like AM/PM or transcription errors in the original logs. The markups above only flag a subset; the pattern is broader. Verify before relying on seam timing.
-- **Start Temp and Stop Temp are 860 on every row of every report** — a constant, suggesting a defaulted/template value rather than individually recorded wedge temperatures. Worth confirming the welder actually logged 860 each time.
+### Data-quality patterns (across all 12 reports)
+- **Out-of-order / impossible times are pervasive** — stop-before-start, overlapping seams on one machine, 21:47 and 23:36 night-time stamps, 00:05 entries, and a 4-min/130-ft weld. The reviewer markups catch a representative subset; the underlying pattern runs through most reports. **The seam *timing* data is not reliable as recorded** and needs a cleanup pass before use. (Seam *lengths* and totals, by contrast, all reconcile — see below.)
+- **Start Temp and Stop Temp are 860 on every row of every report** — a constant across all 158+ seams, suggesting a defaulted/template value rather than individually recorded wedge temperatures. Confirm the welders actually logged 860 each time.
 
 ### Verified facts
-- **All eight totals reconcile** (row lengths sum to the printed Total Seam Length): 828, 948, 2896, 719, 540, 1852, 724, 1484. Confirms no rows missed.
+- **All twelve totals reconcile** (row lengths sum to the printed Total Seam Length): 828, 948, 2896, 719, 540, 1852, 724, 1484, 947, 1802, 907, 280. Confirms no rows missed in any report.
 - **Three welders/machines:** Tech **RM → Equip. 6050**; Tech **HL → Equip. 6416**; Tech **OA → Equip. 6416** (OA appears only in report 4-00). Machine/tech pairing is consistent.
-- **Machine Number header field:** shown (6050/6416) only on reports 1-00 and 2-00; omitted on 3-00 through 8-00. Per-row Equip. ID still identifies the machine.
+- **Machine Number header field:** shown (6050/6416) only on reports 1-00 and 2-00; omitted from 3-00 onward. Per-row Equip. ID still identifies the machine.
 - **Comments column** is blank on every report except **5-00**, where all rows read "Primary" (ties to the "Primary layer" placement run).
 
 ### Report series & totals
-- **MF0085** series (seaming), separate from MF01 (panel placement) and MF0084 (destructive). Reports 01–08 now provided (no gaps).
+- **MF0085** series (seaming), separate from MF01 (panel placement), MF0084 (destructive), and MF0086 (trial welds, Part 8). Reports **01–10, 13, 14** provided; **reports 11 and 12 are missing** (not in any batch yet).
 - Seam-number punctuation here ("P1/P3", "P14/P12") differs from the air-channel report's "P1/3" — same scheme, different formatting.
-- **Grand total seam length across all 8 reports:** 828 + 948 + 2896 + 719 + 540 + 1852 + 724 + 1484 = **9,991 ft** (158 seam rows).
+- **Grand total seam length across all 12 reports:** 828 + 948 + 2896 + 719 + 540 + 1852 + 724 + 1484 + 947 + 1802 + 907 + 280 = **12,927 ft** (205 seam rows).
+
+---
+
+# PART 8 — TRIAL WELD SUMMARY
+
+Pre-production trial (test) welds — the welder qualification welds run before production seaming, tested in peel and shear against the same criteria as the destructive tests. New document type, **MF0086** report series.
+
+**Source document (in order provided):**
+1. `Trial_Weld_Summary_01-01_2026-07-31.pdf` — Report # MF0086-000001-01
+
+**Common header information:**
+- **Company:** Gosling Czubak Engineering Sciences, Inc. — 1280 Business Park Drive, Traverse City, MI 49686 — (231) 946-9191
+- **Client:** Gosling Czubak Engineering Sciences
+- **Project:** 260006 — M-O-A Landfill, 6751 Landfill Rd, Atlanta, MI
+- **Document title:** Trial Weld Summary
+- **CQA Personnel:** Kyle Bridges
+- **Material Type:** 60 mil HDPE T/T
+
+**Test Criteria (printed on the report):**
+
+| Test Criteria | Peel (ppi) | Shear (ppi) |
+|---|---|---|
+| Fusion Peel | 91 | 120 |
+| Extrusion Peel | 78 | 120 |
+
+**Notes legend:** T = Textured · S = Smooth · DT = Dual Track · EXT = Extrusion
+
+---
+
+## Report 1-01 — MF0086-000001-01
+
+- **Report #:** MF0086-000001-01
+- **Date:** 07/31/2026
+- **CQA Personnel:** Kyle Bridges
+- **Material Type:** 60 mil HDPE T/T
+- **Pages:** 1
+- **Row count:** 4 trial welds
+
+**Columns:** Sample Id | Date of Trial | Time of Trial | Welder Initials | Ambient Temp (°F) | Equip. Number | Welder Type | Preheat Temp (°F) | Speed (feet/min) | Peel (ppi) 1–10 | Shear (ppi) 1–5 | Results.
+*(Time of Trial and Welder Type are blank on all rows; Peel columns 6–10 are unused.)*
+
+| Sample Id | Date of Trial | Welder Initials | Ambient Temp (°F) | Equip. Number | Preheat Temp (°F) | Speed (ft/min) | Peel 1 | Peel 2 | Peel 3 | Peel 4 | Peel 5 | Shear 1 | Shear 2 | Shear 3 | Shear 4 | Shear 5 | Results |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 07/31/2026 | HL | 69 | 6416 | 860 | 5 | 125 | 110 | 141 | 132 | 117 | 167 | 176 | 168 | 176 | 170 | Pass |
+| 2 | 07/31/2026 | RM | 69 | 6050 | 860 | 6 | 108 | 125 | 115 | 113 | 125 | 177 | 170 | 172 | 183 | 180 | Pass |
+| 3 | 07/31/2026 | RM | 84 | 6050 | 860 | 6 | 133 | 132 | 130 | 122 | 120 | 155 | 144 | 154 | 159 | 156 | Pass |
+| 3 | 07/31/2026 | RM | 84 | 6050 | 860 | 4.5 | 114 | 130 | 116 | 115 | 116 | 158 | 148 | 159 | 152 | 154 | Pass |
+
+---
+
+## Part 8 — Notes / observations
+
+- **All 4 trial welds PASS.** Every peel value is ≥ the 91 ppi fusion-peel criterion (lowest is 108) and every shear value ≥ 120 (lowest is 144), so all pass comfortably.
+- **Two rows are both labeled "Sample 3"** (both welder RM / Equip. 6050, ambient 84), differing only in weld speed (6 vs 4.5 ft/min). Likely two trial passes at different speeds that should have distinct IDs (e.g. 3 and 4) — transcribed as printed; verify.
+- **Welder/machine pairing matches the seaming logs:** HL → 6416, RM → 6050. Trial welds run at 5–6 ft/min (and one at 4.5).
+- **Preheat Temp = 860°F on every row** — the same 860 value that appears as "Start/Stop Temp" throughout the Panel Seaming Summaries (Part 7). This confirms 860°F is the wedge/preheat setpoint for this equipment, which supports the earlier suspicion that the seaming logs' constant 860 is the setpoint rather than individually measured readings.
+- **Test criteria match the destructive-test thresholds** (Part 2): fusion peel ≥ 91 ppi (here the criterion is stated as 91), shear ≥ 120 ppi.
+- **This is report 01-01** of the MF0086 trial-weld series; it is the only one provided so far.

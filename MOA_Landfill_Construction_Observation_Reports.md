@@ -586,19 +586,61 @@
 
 ---
 
-## Inventory Checklists (GCL Rolls)
+## Inventory Checklists (Material Rolls)
 
-Separate document type (Report # prefix **ICL**), not daily observation reports. These are CQA material-inventory snapshots of GCL (geosynthetic clay liner) rolls received/stored on site. **CQA Personnel: Kyle Bridges.** The checklists carry no activity date. Each roll is tracked by roll number with a "Used?" status.
+Separate document type (Report # prefix **ICL**), not daily observation reports. These are CQA material-inventory snapshots of geosynthetic rolls received/stored on site. **CQA Personnel: Kyle Bridges.** The checklists carry no activity date. Each roll is tracked by roll number with a "Used?" status.
 
-> **Note:** Checklists **#1 and #4** are provided here; **#2 and #3 (ICL001-000002, -000003) have not been provided.** All rolls on both checklists are marked **"Used? No"** — i.e., these are as-received inventory snapshots, not consumption records.
+> **Note:** Checklists **#1 through #7 are all now provided.** **Every roll on every checklist is marked "Used? No"** — i.e., these are as-received inventory snapshots, not consumption/installation records. (The daily reports, not these checklists, document what was actually installed.)
+
+### Summary of Inventory Checklists
+
+| Checklist # | Material | Roll count | Status |
+|---|---|---|---|
+| ICL001-000001-01 | GCL (geosynthetic clay liner) | 26 | All unused |
+| ICL001-000002-00 | 60-mil textured HDPE (33) + GCL (10) | 43 | All unused |
+| ICL001-000003-01 | Geocomposite | 53 | All unused |
+| ICL001-000004-00 | GCL | 38 | All unused |
+| ICL001-000005-00 | Geocomposite | 33 | All unused |
+| ICL001-000006-00 | NW geotextile | 35 line items* | All unused |
+| ICL001-000007-00 | Geocomposite | 19 | All unused |
+
+*ICL#6 contains apparent duplicate roll numbers (28186421 listed twice; 28186403 listed twice), so the count of unique rolls is lower than 35 — likely a data-entry repeat.
+
+**Material totals across all checklists (as received, unused):** GCL ≈ 74 rolls (26 + 10 + 38) · 60-mil textured HDPE = 33 rolls · Geocomposite = 105 rolls (53 + 33 + 19) · NW geotextile = 35 line items.
 
 ### ICL001-000001-01 — GCL Inventory (26 rolls, all unused)
 
 Roll numbers (all prefix 0242-457): 457236, 457244, 457241, 457237, 457245, 457242, 457243, 457239, 457238, 457246, 457240, 457248, 457249, 457247, 457225, 457223, 457233, 457230, 457226, 457235, 457229, 457222, 457224, 457234, 457228, 457231. **All "Used? No."**
 
+### ICL001-000002-00 — 60-mil Textured HDPE + GCL Inventory (33 HDPE + 10 GCL, all unused)
+
+**60-mil textured HDPE roll numbers (prefix 311901):** 3119013908, 3119013916, 3119013911, 3119013907, 3119013917, 3119013910, 3119013914, 3119013918, 3119013912, 3119013913, 3119013915, 3119013898, 3119013919, 3119013894, 3119013921, 3119013897, 3119013920, 3119013891, 3119013900, 3119013895, 3119013922, 3119013923, 3119013899, 3119013902, 3119013901, 3119013892, 3119013896, 3119013890, 3119013904, 3119013903, 3119013905, 3119013909, 3119013906.
+
+**GCL roll numbers (prefix 0242-457):** 457177, 457191, 457183, 457165, 457166, 457169, 457193, 457184, 457175, 457192.
+
+**All "Used? No."**
+
+### ICL001-000003-01 — Geocomposite Inventory (53 rolls, all unused)
+
+Roll numbers (all prefix 01643112300 / 0164311230): 230036, 230069, 230090, 230034, 230058, 230046, 230065, 230091, 230055, 230116, 230095, 230078, 230031, 230072, 230094, 230052, 230088, 230060, 230053, 230045, 230064, 230063, 230049, 230081, 230030, 230093, 230073, 230082, 230035, 230039, 230079, 230047, 230068, 230077, 230029, 230038, 230044, 230050, 230037, 230048, 230040, 230092, 230074, 230054, 230057, 230071, 230083, 230051, 230061, 230070, 230041, 230087, 230032. **All "Used? No."** *(Full roll numbers are 0164311230xxx.)*
+
 ### ICL001-000004-00 — GCL Inventory (38 rolls, all unused)
 
 Roll numbers (all prefix 0242-457): 457173, 457178, 457172, 457202, 457189, 457185, 457199, 457200, 457190, 457143, 457163, 457138, 457157, 457144, 457158, 457140, 457155, 457146, 457162, 457171, 457151, 457148, 457154, 457147, 457217, 457213, 457210, 457214, 457195, 457212, 457219, 457218, 457220, 457221, 457194, 457215, 457211, 457216. **All "Used? No."**
+
+### ICL001-000005-00 — Geocomposite Inventory (33 rolls, all unused)
+
+Roll numbers (all prefix 0164311230): 230084, 230024, 230127, 230015, 230067, 230005, 230062, 230107, 230085, 230118, 230080, 230124, 230112, 230043, 230098, 230102, 230066, 230114, 230106, 230113, 230115, 230117, 230096, 230109, 230100, 230110, 230076, 230075, 230101, 230059, 230042, 230099, 230033. **All "Used? No."**
+
+### ICL001-000006-00 — NW Geotextile Inventory (35 line items, all unused)
+
+Roll numbers (prefix 281863–281864): 28186386, 28186393, 28186416, 28186388, 28186392, 28186390, 28186418, 28186406, 28186402, 28186425, 28186395, 28186409, 28186397, 28186399, 28186404, 28186389, 28186391, 28186421, 28186407, 28186421*, 28186413, 28186417, 28186419, 28186403, 28186414, 28186415, 28186410, 28186408, 28186411, 28186403*, 28186424, 28186420, 28186396, 28186387, 28186398. **All "Used? No."**
+
+*\*28186421 and 28186403 each appear twice on the checklist — likely data-entry duplicates, so unique rolls < 35.*
+
+### ICL001-000007-00 — Geocomposite Inventory (19 rolls, all unused)
+
+Roll numbers (all prefix 0164311230): 230017, 230009, 230028, 230007, 230008, 230002, 230006, 230003, 230001, 230010, 230018, 230013, 230014, 230020, 230019, 230011, 230004, 230012, 230016. **All "Used? No."**
 
 ---
 
@@ -624,7 +666,7 @@ Roll numbers (all prefix 0242-457): 457173, 457178, 457172, 457202, 457189, 4571
 - **Storm water / washouts:** Recurring issue. Rain 07/09 → pumping through 07/20 → slope regrade/erosion repair 07/22. **More rain 08/05** (CAAW off site, M&M pumping); saturated sump material excavated + rain-damaged areas backfilled/regraded 08/07. *Ongoing weather sensitivity during liner install.*
 - **Manhole & valve boxes (E side):** Sit 2' below new road height (flagged 06/29) — *still no resolution noted through 08/03; unresolved.*
 - **Leachate sand:** 4 samples taken 06/24 for gradation testing; 3 sent for additional testing — *results pending.*
-- **Material deliveries (running):** GCL + NW fabric (2 trucks) 06/29 · HDPE liner (2 trucks) 07/06 · liner (3 trucks) 07/08 · liner-roll inventory + multiple pipe sizes/types 07/22 (verified vs. approved submittals). All stored/inventoried per CQA Plan.
+- **Material deliveries (running):** GCL + NW fabric (2 trucks) 06/29 · HDPE liner (2 trucks) 07/06 · liner (3 trucks) 07/08 · liner-roll inventory + multiple pipe sizes/types 07/22 (verified vs. approved submittals). All stored/inventoried per CQA Plan. **Full roll inventory now documented in the Inventory Checklists section (ICL#1–7): ~74 GCL rolls, 33 60-mil HDPE rolls, 105 geocomposite rolls, 35 NW geotextile line items — all logged as received/unused.**
 
 ---
 

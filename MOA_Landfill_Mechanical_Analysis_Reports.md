@@ -1291,3 +1291,175 @@ Printed with three value pairs only (no entry in the first column):
 - Weight of Tare (g): 147.1
 - Weight of Dried Soil (g): 1396.9
 - Bulk Specific Gravity (+3/4"): 2.59
+
+---
+
+# Geotechnics project verification forms and lab testing programs
+
+Administrative / chain-of-custody forms (not test results). Each ties a Geotechnics project number to the samples and the tests ordered. Transcribed as printed, including checkbox state. Checkbox notation: [X] = marked, [ ] = unmarked.
+
+## Project Verification Form — 2026-315-001 (dated 4/14/26)
+
+Source: MOA Landfill - Cell C Ph. 1 Project Verification 4-14-26.pdf (1 page).
+
+- Title: TRANSMITTAL — PROJECT VERIFICATION FORM
+- GEOTECHNICS' PROJECT NO.: 2026-315-001
+- APPROVED by Adam E. Segerlind, DATE 04/14/2026, NOTE: (blank)
+- Project Contact: Adam Segerlind
+- Company: Gosling Czubak Engineering Sciences
+- Office Phone: (231) 933-5135
+- Cell phone: (blank)
+- Email: aesegerlind@goslingczubak.com
+- CC: djthomas@goslingczubak.com
+- [X] Initial verification
+- [ ] Continuing work; Initial PVF has been previously sent
+- Testing Program Information — Project Name / Reference: MOA Landfill - Cell C, Phase 1
+- Testing to be performed is described:
+  - per your: [X] Testing Requisition or COC
+  - per Geotechnics': [X] Lab Testing Program
+  - Email: [ ]; Letter: [ ]
+  - Telephone call Dated: 4/14/26 (both rows)
+- Quality System in effect: Quality Manual QM-GT [X]; Nuclear Quality Manual NQM-GT [ ]; Geosynthetic Quality Manual QM-GS [ ]
+- Quality Assurance Requirements (Reviewed):
+  - QA Standards Standard/Date: Yes [ ] No [ ] NA [X]
+  - Nonconformance Notifications: Yes [ ] No [ ] NA [X]
+  - Classification of Records as Lifetime or Nonpermanent: Yes [ ] No [ ] NA [X]
+  - Comments: (blank)
+- Anticipated completion date: 4/28/26 ASAP
+- Packaging & Shipping Procedures will be transmitted if warranted by Lab Director to: Office [ ], Site [ ], Prev. Sent [X]
+- Preliminary test data will be transmitted to: Adam Segerlind — Office [X], Site [ ]
+- Final reports will be transmitted to: Adam Segerlind — Office [X], Site [ ]
+- Invoice for testing will be per: [X] Geotechnics' proposal dated: 2026 Price List; [ ] Your P.O.#; [ ] Other
+- Invoice for testing will be mailed to: Gosling Czubak Engineering Sciences, 1280 Business Park Drive, Traverse City, MI 49686, aesegerlind@goslingczubak.com
+- Final Report will be transmitted to: aesegerlind@goslingczubak.com, djthomas@goslingczubak.com
+- Signed: Caleb Kyper, Project Coordinator, Date 4/14/26
+- Note: Geotechnics retains a record of the transmittal of this form. Client response is required to affect changes to the scope of the services described herein. No response implies Client agreement.
+- Form: DCN: QA-PVF Date: 9/9/13 Revision 11
+- Footer: 544 Braddock Avenue, East Pittsburgh, PA 15112. Phone (412) 823-7600. Fax (412) 823-8999. www.geotechnics.net
+
+## Lab Testing Program — 2026-315-001 (dated 4/14/26)
+
+Source: MOA Landfill - Cell C Ph. 1 Testing Program 4-14-26.pdf (1 page).
+
+- Header: Geotechnics, Inc. Laboratory Testing Program
+- Client: Gosling Czubak Engineering Sciences
+- Project: MOA Landfill - Cell C, Ph. 1
+- Client Contact: Adam Segerlind
+- Office: (231) 933-5135; Fax: (blank); Cell: (blank)
+- Geotechnics Project No.: 2026-315-001
+- Email: aesegerlind@goslingczubak.com
+- Start Date: 4/14/26
+- Report Due Date: 4/28/26
+- No. of Samples: 1
+- Storage Location: APRIL26
+- Banner: Please give bucket to Ryan O. for Interface testing
+- APPROVED by Adam E. Segerlind, DATE 04/14/2026, NOTE: (blank)
+- Printed date: Tuesday, April 14, 2026
+- Footer: 544 Braddock Avenue, East Pittsburgh, Pa 15112. Phone: (412) 823-7600. Fax: (412) 823-8999
+- page 1 of 1
+
+| Boring No. | Depth | Sample | Lab ID | Container | Comments | Tests listed |
+|---|---|---|---|---|---|---|
+| MOA Landfill | Cell C, Ph. 1 | Native Soil | 2026-315-001-001 | Red Bkt. | (blank) | ModProct D1557 |
+
+Test Totals: 1 × ModProct D1557 (printed "ModProct D155").
+
+## Project Verification Form — 2026-435-001 (dated 5/19/26)
+
+Source: MOA LF-Cell C Ph. 1 Project Verification 5-19-26.pdf (1 page).
+
+- Title: TRANSMITTAL — PROJECT VERIFICATION FORM
+- GEOTECHNICS' PROJECT NO.: 2026-435-001
+- APPROVED by Adam E. Segerlind, DATE 05/21/2026, NOTE: (blank)
+- Project Contact: Adam Segerlind
+- Company: Gosling Czubak Engineering Sciences
+- Office Phone: (231) 933-5135
+- Cell phone: (blank)
+- Email: aesegerlind@goslingczubak.com
+- CC: djthomas@goslingczubak.com
+- [X] Initial verification
+- [ ] Continuing work; Initial PVF has been previously sent
+- Testing Program Information — Project Name / Reference: MOA Landfill - Cell C, Phase 1 260006.07
+- Testing to be performed is described:
+  - per your: [X] Testing Requisition or COC
+  - per Geotechnics': [X] Lab Testing Program
+  - Email: [ ]; Letter: [ ]
+  - Telephone call Dated: 5/19/26 (both rows)
+- Quality System in effect: Quality Manual QM-GT [X]; Nuclear Quality Manual NQM-GT [ ]; Geosynthetic Quality Manual QM-GS [ ]
+- Quality Assurance Requirements (Reviewed):
+  - QA Standards Standard/Date: Yes [ ] No [ ] NA [X]
+  - Nonconformance Notifications: Yes [ ] No [ ] NA [X]
+  - Classification of Records as Lifetime or Nonpermanent: Yes [ ] No [ ] NA [X]
+  - Comments: (blank)
+- Anticipated completion date: 6/3/26 ASAP
+- Packaging & Shipping Procedures will be transmitted if warranted by Lab Director to: Office [ ], Site [ ], Prev. Sent [X]
+- Preliminary test data will be transmitted to: Adam Segerlind — Office [X], Site [ ]
+- Final reports will be transmitted to: Adam Segerlind — Office [X], Site [ ]
+- Invoice for testing will be per: [X] Geotechnics' proposal dated: 2026 Price List; [ ] Your P.O.#; [ ] Other
+- Invoice for testing will be mailed to: Gosling Czubak Engineering Sciences, 1280 Business Park Drive, Traverse City, MI 49686, aesegerlind@goslingczubak.com
+- Final Report will be transmitted to: aesegerlind@goslingczubak.com, djthomas@goslingczubak.com
+- Signed: Caleb Kyper, Project Coordinator, Date 5/19/26
+- Note: Geotechnics retains a record of the transmittal of this form. Client response is required to affect changes to the scope of the services described herein. No response implies Client agreement.
+- Form: DCN: QA-PVF Date: 9/9/13 Revision 11
+- Footer: 544 Braddock Avenue, East Pittsburgh, PA 15112. Phone (412) 823-7600. Fax (412) 823-8999. www.geotechnics.net
+
+## Lab Testing Program — 2026-435-001 (dated 5/19/26)
+
+Source: MOA LF-Cell C Ph. 1 Testing Program 5-19-26.pdf (1 page).
+
+- Header: Geotechnics, Inc. Laboratory Testing Program
+- Client: Gosling Czubak Engineering Sciences
+- Project: MOA LF-Cell C, Ph. 1 260006.07
+- Client Contact: Adam Segerlind
+- Office: (231) 933-5135; Fax: (blank); Cell: (blank)
+- Geotechnics Project No.: 2026-435-001
+- Email: aesegerlind@goslingczubak.com
+- Start Date: 5/19/26
+- Report Due Date: 6/3/26
+- No. of Samples: 6
+- Storage Location: MAY26
+- Banner: Carbonate Content = pH 4.0
+- APPROVED by Adam E. Segerlind, DATE 05/21/2026, NOTE: (blank)
+- Printed date: Tuesday, May 19, 2026
+- Footer: 544 Braddock Avenue, East Pittsburgh, Pa 15112. Phone: (412) 823-7600. Fax: (412) 823-8999
+- page 1 of 1
+
+| Boring No. | Depth | Sample | Lab ID | Container | Comments | Tests listed |
+|---|---|---|---|---|---|---|
+| Lewiston S&G | LCS Stone | 1 | 2026-435-001-001 | White Bkt. | Carbonate Content = pH 4.0 | Perm 2434 Crse, Carb pH4 D3042 |
+| Lewiston S&G | LCS Stone | 5 | 2026-435-001-002 | White Bkt. | Carbonate Content = pH 4.0 | Perm 2434 Crse, Carb pH4 D3042 |
+| Lewiston S&G | LCS Stone | 6 | 2026-435-001-003 | White Bkt. | Carbonate Content = pH 4.0 | Perm 2434 Crse, Carb pH4 D3042 |
+| Mathews Rd. | LCS Sand | 6 | 2026-435-001-004 | White Bkt. | (blank) | Perm 2434 Fine |
+| Mathews Rd. | LCS Sand | 7 | 2026-435-001-005 | White Bkt. | (blank) | Perm 2434 Fine |
+| Mathews Rd. | LCS Sand | 8 | 2026-435-001-006 | White Bkt. | (blank) | Perm 2434 Fine |
+
+Test Totals: 3 × Carb pH4 D3042 (printed "Carb pH4 D304"); 3 × Perm 2434 Fine; 3 × Perm 2434 Crse.
+
+## Lab Testing Program — 2026-435-002 (dated 6/30/26)
+
+Source: MOA LF-Cell C Ph. 1 Testing Program 6-30-26.pdf (1 page).
+
+- Header: Geotechnics, Inc. Laboratory Testing Program
+- Client: Gosling Czubak Engineering Sciences
+- Project: MOA LF-Cell C, Ph. 1 260006.07
+- Client Contact: Adam Segerlind
+- Office: (231) 933-5135; Fax: (blank); Cell: (blank)
+- Geotechnics Project No.: 2026-435-002
+- Email: aesegerlind@goslingczubak.com
+- Start Date: 6/30/26
+- Report Due Date: (blank)
+- No. of Samples: 3
+- Storage Location: MAY26
+- Banner: Carbonate Content = pH 4.0
+- APPROVED by Adam E. Segerlind, DATE 06/30/2026, NOTE: Please proceed
+- Printed date: Tuesday, June 30, 2026
+- Footer: 544 Braddock Avenue, East Pittsburgh, Pa 15112. Phone: (412) 823-7600. Fax: (412) 823-8999
+- page 1 of 1
+
+| Boring No. | Depth | Sample | Lab ID | Container | Comments | Tests listed |
+|---|---|---|---|---|---|---|
+| Mathews Rd. | LCS Sand | A | 2026-435-002-001 | Orange Bkt. | (blank) | Perm 2434 Fine |
+| Mathews Rd. | LCS Sand | B | 2026-435-002-002 | White Bkt. | (blank) | Perm 2434 Fine |
+| Mathews Rd. | LCS Sand | C | 2026-435-002-003 | White Bkt. | (blank) | Perm 2434 Fine |
+
+Test Totals: 3 × Perm 2434 Fine.

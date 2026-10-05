@@ -1463,3 +1463,43 @@ Source: MOA LF-Cell C Ph. 1 Testing Program 6-30-26.pdf (1 page).
 | Mathews Rd. | LCS Sand | C | 2026-435-002-003 | White Bkt. | (blank) | Perm 2434 Fine |
 
 Test Totals: 3 × Perm 2434 Fine.
+
+---
+
+# Consolidated final-data report — Project 2026-435-001 (dated 6/9/26)
+
+Source: Final Data 2026-435-001 MOA LF-Cell 6-9-26.pdf (9 pages).
+
+This is the bound "Final Data" package Geotechnics mailed for project 2026-435-001. Pages 2–9 are the individual data sheets already transcribed in full elsewhere in this file; their values are identical (verified page-by-page). Only the transmittal letter below is new. The data sheets are cross-referenced rather than duplicated, so the single transcription of each test above remains the one source of truth.
+
+## Transmittal (page 1)
+
+- Laboratory: Geotechnics, geotechnical & geosynthetic testing
+- Date: June 9, 2026
+- Project No.: 2026-435-001
+- Addressee: Adam Segerlind, Gosling Czubak Engineering Sciences, 1280 Business Park Drive, Traverse City, MI 49686
+- Title: Transmittal, Laboratory Test Results, MOA LF-Cell C, Ph. 1 260006.07
+- Body: Please find attached the laboratory test results for the above referenced project. The tests were outlined on the Project Verification Form that was transmitted to your firm prior to the testing. The testing was performed in general accordance with the methods listed on the enclosed data sheets. The test results are believed to be representative of the samples that were submitted for testing and are indicative only of the specimens that were evaluated. We have no direct knowledge of the origin of the samples and imply no position with regard to the nature of the test results, i.e. pass/fail and no claims as to the suitability of the material for its intended use.
+- Confidentiality: The test data and all associated project information provided shall be held in strict confidence and disclosed to other parties only with authorization by our Client. The test data submitted herein is considered integral with this report and is not to be reproduced except in whole and only with the authorization of the Client and Geotechnics. The remaining sample materials for this project will be retained for a minimum of 90 days as directed by the Geotechnics' Quality Program.
+- Close: We are pleased to provide these testing services. Should you have any questions or if we may be of further assistance, please contact our office.
+- Signature: Respectfully submitted, Geotechnics, Inc. Signed. Nathan Melaro, Director of Operations.
+- Tagline: We understand that you have a choice in your laboratory services and we thank you for choosing Geotechnics.
+- Form: DCN: Data Transmittal Letter Date: 1/28/05 Rev.: 1
+- Footer: 544 Braddock Avenue, East Pittsburgh, PA 15112. Phone (412) 823-7600. Fax (412) 823-8999. www.geotechnics.net
+
+## Enclosed data sheets (pages 2–9) — cross-reference
+
+All eight sheets match the earlier transcriptions value-for-value; see the named sections for the full tables.
+
+| Page | Sheet | Lab ID | Result / key value | Transcribed in |
+|---|---|---|---|---|
+| 2 | Carbonate Content, LCS Stone Sample 1 | 2026-435-001-001 | 0.0% | "Carbonate Sample 1 — Lab ID 2026-435-001-001" |
+| 3 | Rigid Wall Permeability, LCS Stone Sample 1 | 2026-435-001-001 | avg k 1.7E+01 / 1.7E+01 / 1.5E+01 | "Conductivity Sample 1 — Lab ID 2026-435-001-001" |
+| 4 | Carbonate Content, LCS Stone Sample 5 | 2026-435-001-002 | 0.1% | "Carbonate Sample 5 — Lab ID 2026-435-001-002" |
+| 5 | Rigid Wall Permeability, LCS Stone Sample 5 | 2026-435-001-002 | avg k 2.1E+01 / 1.9E+01 / 1.6E+01 | "Conductivity Sample 5 — Lab ID 2026-435-001-002" |
+| 6 | Carbonate Content, LCS Stone Sample 6 | 2026-435-001-003 | 0.0% | "Carbonate Sample 6 — Lab ID 2026-435-001-003" |
+| 7 | Rigid Wall Permeability, LCS Stone Sample 6 | 2026-435-001-003 | avg k 1.4E+01 / 1.2E+01 / 1.1E+01 | "Conductivity Sample 6 — Lab ID 2026-435-001-003" |
+| 8 | Rigid Wall Permeability, LCS Sand Sample 6 (ASTM D 2434-22) | 2026-435-001-004 | avg k 2.5E-02 / 2.1E-02 / 2.1E-02 | "Sample 6 — Lab ID 2026-435-001-004" |
+| 9 | Rigid Wall Permeability, LCS Sand Sample 7 (ASTM D 2434-22) | 2026-435-001-005 | avg k 2.4E-02 / 2.3E-02 / 2.3E-02 | "Sample 7 — Lab ID 2026-435-001-005" |
+
+Note: this consolidated report covers LCS Sand samples 6 and 7 only. Sample 8 (Lab ID 2026-435-001-006), ordered on the 2026-435-001 lab testing program, is not included in this package and has no result sheet on file.

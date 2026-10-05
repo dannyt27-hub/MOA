@@ -1118,3 +1118,176 @@ Shared on all three LCS Stone permeability sheets:
 | 3 | 1 | 1.60 | 0.20 | 21.3 | 10 | 14441 | 1.1E+01 | |
 | 3 | 2 | 1.60 | 0.20 | 21.4 | 10 | 14441 | 1.1E+01 | 1.1E+01 |
 | 3 | 3 | 1.60 | 0.20 | 21.3 | 10 | 14441 | 1.1E+01 | |
+
+---
+
+# Subgrade / Native Soil moisture-density relationship — Geotechnics, Project 2026-315-001
+
+Source: Subgrade Density results - Final Data 2026-315-001 MOA Landfill 4-22-26.pdf (4 pages). The file name reads "Subgrade Density," but the content is a Modified Proctor moisture-density relationship with oversize correction (ASTM D 1557 / D 4718), not a nuclear density subgrade test. This report carries a different project number (**2026-315-001**) than the aggregate and LCS Sand/Stone reports above (260006 and 2026-435-xxx); it is still MOA Landfill – Cell C, Ph. 1. All values transcribed as printed; none recalculated.
+
+## Transmittal (page 1)
+
+- Laboratory: Geotechnics, geotechnical & geosynthetic testing
+- Date: April 22, 2026
+- Project No.: 2026-315-001
+- Addressee: Adam Segerlind, Gosling Czubak Engineering Sciences, 1280 Business Park Drive, Traverse City, MI 49686
+- Title: Transmittal, Laboratory Test Results, MOA Landfill – Cell C, Ph. 1
+- Body: Please find attached the laboratory test results for the above referenced project. The tests were outlined on the Project Verification Form that was transmitted to your firm prior to the testing. The testing was performed in general accordance with the methods listed on the enclosed data sheets. The test results are believed to be representative of the samples that were submitted for testing and are indicative only of the specimens that were evaluated. We have no direct knowledge of the origin of the samples and imply no position with regard to the nature of the test results, i.e. pass/fail and no claims as to the suitability of the material for its intended use.
+- Confidentiality: The test data and all associated project information provided shall be held in strict confidence and disclosed to other parties only with authorization by our Client. The test data submitted herein is considered integral with this report and is not to be reproduced except in whole and only with the authorization of the Client and Geotechnics. The remaining sample materials for this project will be retained for a minimum of 90 days as directed by the Geotechnics' Quality Program.
+- Close: We are pleased to provide these testing services. Should you have any questions or if we may be of further assistance, please contact our office.
+- Signature: Respectfully submitted, Geotechnics, Inc. Signed. Nathan Melaro, Director of Operations.
+- Tagline: We understand that you have a choice in your laboratory services and we thank you for choosing Geotechnics.
+- Form: DCN: Data Transmittal Letter Date: 1/28/05 Rev.: 1
+- Footer: 544 Braddock Avenue, East Pittsburgh, PA 15112. Phone (412) 823-7600. Fax (412) 823-8999. www.geotechnics.net
+
+## Moisture–Density Relationship — plot page (page 2) and data page (page 3)
+
+Header shared on both pages:
+- Title: MOISTURE - DENSITY RELATIONSHIP (Corrected for Oversize Particles)
+- Method: ASTM D 4718-15, D 1557-12e2 (SOP-S12, S39)
+- Client: Gosling Czubak Engineering Sciences
+- Client Reference: MOA Landfill - Cell C, Ph. 1
+- Project No.: 2026-315-001
+- Lab ID: 2026-315-001-001
+- Boring No.: MOA Landfill
+- Depth (ft): Cell C, Ph. 1
+- Sample No.: Native Soil
+- Test Method: MODIFIED
+- Visual Description: Brown Sand with Rock
+- Tested By AB, 4/21/26
+- Checked By JLK, 4/22/26
+- Form: DCN: CT-S39 DATE: 4/21/23, Revision 16
+
+Summary results (plot page):
+- Optimum Moisture Content (%): 7.2
+- Maximum Dry Density (pcf): 131.3
+- Corrected Moisture Content (%): 6.5
+- Corrected Dry Density (pcf): 134.9
+- Specific Gravity: 2.70 (Assumed)
+- Bulk Sp. Gravity: 2.59 (Measured)
+- Plot: Density (pcf) vs Moisture Content (%), x-axis 0 to 20, y-axis 120 to 150; two curves (Non-corrected Curve, Corrected Curve)
+- page 1 of 2
+
+Test setup / sample info (data page):
+- Total Weight of the Sample (g): NA
+- As Received Water Content (%): NA
+- Assumed Specific Gravity: 2.70
+- Percent Retained on 3/4" (Dry): 14.13
+- Percent Retained on 3/8" (Dry): NA
+- Percent Retained on #4 (Dry): NA
+- Oversize Material: Not included
+- Procedure Used: C
+- TestType: MODIFIED
+- Rammer Weight (lb): 10.0
+- Rammer Drop (in): 18
+- Rammer Type: MECHANICAL
+- Machine ID: G1916
+- Mold ID: G3347
+- Mold diameter (in): 6"
+- Weight of the Mold (g): 5679
+- Volume Of the Mold (cm³): 2123
+- page 2 of 2
+
+### Mold/Specimen
+
+| Point No. | 1 | 2 | 3 | 4 | 5 |
+|---|---:|---:|---:|---:|---:|
+| Weight of Mold & Wet Sample (g) | 10047 | 10354 | 10489 | 10394 | 10236 |
+| Weight of Mold (g) | 5679 | 5679 | 5679 | 5679 | 5679 |
+| Weight of Wet Sample (g) | 4368 | 4675 | 4810 | 4715 | 4557 |
+| Mold Volume (cm³) | 2123 | 2123 | 2123 | 2123 | 2123 |
+
+### Moisture Content/Density
+
+| Point No. | 1 | 2 | 3 | 4 | 5 |
+|---|---:|---:|---:|---:|---:|
+| Tare Number | 413 | 431 | 440 | 459 | 473 |
+| Weight of Tare & Wet Sample (g) | 451.24 | 463.47 | 462.25 | 461.22 | 504.36 |
+| Weight of Tare & Dry Sample (g) | 439.55 | 443.86 | 435.35 | 430.10 | 465.84 |
+| Weight of Tare (g) | 97.30 | 91.12 | 97.69 | 98.66 | 98.21 |
+| Weight of Water (g) | 11.69 | 19.61 | 26.90 | 31.12 | 38.52 |
+| Weight of Dry Sample (g) | 342.25 | 352.74 | 337.66 | 331.44 | 367.63 |
+| Wet Density (g/cm³) | 2.06 | 2.20 | 2.27 | 2.22 | 2.15 |
+| Wet Density (pcf) | 128.4 | 137.4 | 141.4 | 138.6 | 133.9 |
+| Moisture Content (%) | 3.4 | 5.6 | 8.0 | 9.4 | 10.5 |
+| Dry Density (pcf) | 124.1 | 130.2 | 130.9 | 126.7 | 121.2 |
+
+### Zero Air Voids
+
+Printed with three value pairs only (no entry in the first column):
+
+| | | | | |
+|---|---:|---:|---:|---:|
+| Moisture Content (%) | (blank) | 6.0 | 10.3 | 14.5 |
+| Dry Unit Weight (pcf) | (blank) | 145.0 | 132.0 | 121.1 |
+
+### Calculated Oversize Corrected Moisture & Density
+
+| Point No. | 1 | 2 | 3 | 4 | 5 |
+|---|---:|---:|---:|---:|---:|
+| Moisture Content (%) | 3.3 | 5.1 | 7.2 | 8.4 | 9.3 |
+| Dry Density (pcf) | 128.4 | 133.9 | 134.6 | 130.7 | 125.7 |
+
+## Correction of Unit Weight and Water Content for Oversize Particles (page 4)
+
+- Title: Correction of Unit Weight and Water Content for Soils Containing Oversize Particles by Specific Gravity
+- Method: ASTM D4718/D4718M-15
+- Client: Gosling Czubak Engineering Sciences
+- Client Reference: MOA Landfill - Cell C, Ph. 1
+- Project No.: 2026-315-001
+- Lab ID: 2026-315-001-001
+- Boring No.: MOA Landfill
+- Depth (ft): Cell C, Ph. 1
+- Sample No.: Native Soil
+- Visual Description: Brown Sand with Rock
+- Total Dry Weight of Sample (g): 33255.9
+- Tested By DF, 4/16/26
+- Checked By EG, 4/17/26
+- Form: DCN: CT-S39 DATE: 10/17/17 REVISION: 2e
+- page 1 of 1
+
+### Fine Portion
+
+- Total Wet Weight of - 3/4" Portion (g): 31150.0
+- Total Dry Weight of - 3/4" Portion (g): 28557.0
+- Percent - 3/4" By Dry Weight (%): 85.87
+
+### Coarse Portion
+
+- Total Wet Weight of + 3/4" Portion (g): 4814.0
+- Total Dry Weight of + 3/4" Portion (g): 4698.9
+- Percent + 3/4" By Dry Weight (%): 14.13
+
+### Moisture Content of -3/4" Portion
+
+- Tare Number: 2823
+- Weight of Tare & Wet Sample (g): 247.40
+- Weight of Tare & Dry Sample (g): 227.50
+- Weight of Tare (g): 8.34
+- Weight of Water (g): 19.90
+- Weight of Dry Sample (g): 219.16
+- Moisture Content (%): 9.08
+
+### Moisture Content of +3/4" Portion
+
+- Tare Number: 4001
+- Weight of Tare & Wet Sample (g): 285.63
+- Weight of Tare & Dry Sample (g): 279.00
+- Weight of Tare (g): 8.22
+- Weight of Water (g): 6.63
+- Weight of Dry Sample (g): 270.78
+- Moisture Content (%): 2.45
+
+### Specific Gravity Determination
+
+- Weight of Basket in Air (g): 1030.8
+- Weight of Saturated Surface Dry Sample & Basket in Air (g): 2458.0
+- Weight of Saturated Surface Dry Sample in Air (g): 1427.2
+- Weight of Basket in Water (g): 897.4
+- Weight of Saturated Sample & Basket in Water (g): 1784.9
+- Weight of Saturated Sample in Water (g): 887.4
+- Tare No.: 1478
+- Weight of Tare and Dried Sample (g): 1543.9
+- Weight of Tare (g): 147.1
+- Weight of Dried Soil (g): 1396.9
+- Bulk Specific Gravity (+3/4"): 2.59
